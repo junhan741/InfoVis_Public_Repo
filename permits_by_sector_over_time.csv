@@ -299,853 +299,915 @@ Year,Month,Economic Sector,PermitCount,Date
 2021,12,L - Real Estate Activities,1,2021-12-01
 2021,12,O - Public Administration & Defence,1,2021-12-01
 2021,12,T - Domestic- Activities of Households as Employer,0,2021-12-01
-2022,02,,149,2022-02-01
-2022,02,,1,2022-02-01
-2022,02,,36,2022-02-01
-2022,02,,49,2022-02-01
-2022,02,,48,2022-02-01
-2022,02,,17,2022-02-01
-2022,02,,17,2022-02-01
-2022,02,,9,2022-02-01
-2022,02,,4,2022-02-01
-2022,02,,136,2022-02-01
-2022,02,,22,2022-02-01
-2022,02,,21,2022-02-01
-2022,02,,123,2022-02-01
-2022,02,,934,2022-02-01
-2022,02,,230,2022-02-01
-2022,02,,,2022-02-01
-2022,02,,70,2022-02-01
-2022,02,,44,2022-02-01
-2022,02,,11,2022-02-01
-2022,02,,4,2022-02-01
-2022,02,,13,2022-02-01
-2022,02,,461,2022-02-01
-2022,02,,14,2022-02-01
-2022,02,,126,2022-02-01
-2022,02,,,2022-02-01
-2022,03,,274,2022-03-01
-2022,03,,2,2022-03-01
-2022,03,,50,2022-03-01
-2022,03,,55,2022-03-01
-2022,03,,55,2022-03-01
-2022,03,,43,2022-03-01
-2022,03,,26,2022-03-01
-2022,03,,18,2022-03-01
-2022,03,,,2022-03-01
-2022,03,,127,2022-03-01
-2022,03,,33,2022-03-01
-2022,03,,45,2022-03-01
-2022,03,,175,2022-03-01
-2022,03,,1260,2022-03-01
-2022,03,,379,2022-03-01
-2022,03,,1,2022-03-01
-2022,03,,64,2022-03-01
-2022,03,,69,2022-03-01
-2022,03,,8,2022-03-01
-2022,03,,4,2022-03-01
-2022,03,,15,2022-03-01
-2022,03,,564,2022-03-01
-2022,03,,18,2022-03-01
-2022,03,,173,2022-03-01
-2022,03,,,2022-03-01
-2022,04,,1407,2022-04-01
-2022,04,,,2022-04-01
-2022,04,,53,2022-04-01
-2022,04,,70,2022-04-01
-2022,04,,87,2022-04-01
-2022,04,,105,2022-04-01
-2022,04,,28,2022-04-01
-2022,04,,16,2022-04-01
-2022,04,,2,2022-04-01
-2022,04,,109,2022-04-01
-2022,04,,34,2022-04-01
-2022,04,,75,2022-04-01
-2022,04,,172,2022-04-01
-2022,04,,872,2022-04-01
-2022,04,,234,2022-04-01
-2022,04,,3,2022-04-01
-2022,04,,56,2022-04-01
-2022,04,,23,2022-04-01
-2022,04,,7,2022-04-01
-2022,04,,6,2022-04-01
-2022,04,,13,2022-04-01
-2022,04,,496,2022-04-01
-2022,04,,29,2022-04-01
-2022,04,,115,2022-04-01
-2022,04,,,2022-04-01
-2022,05,,877,2022-05-01
-2022,05,,,2022-05-01
-2022,05,,47,2022-05-01
-2022,05,,46,2022-05-01
-2022,05,,104,2022-05-01
-2022,05,,31,2022-05-01
-2022,05,,58,2022-05-01
-2022,05,,19,2022-05-01
-2022,05,,1,2022-05-01
-2022,05,,131,2022-05-01
-2022,05,,30,2022-05-01
-2022,05,,59,2022-05-01
-2022,05,,303,2022-05-01
-2022,05,,1064,2022-05-01
-2022,05,,226,2022-05-01
-2022,05,,1,2022-05-01
-2022,05,,92,2022-05-01
-2022,05,,32,2022-05-01
-2022,05,,5,2022-05-01
-2022,05,,5,2022-05-01
-2022,05,,16,2022-05-01
-2022,05,,703,2022-05-01
-2022,05,,22,2022-05-01
-2022,05,,123,2022-05-01
-2022,05,,1,2022-05-01
-2022,06,,708,2022-06-01
-2022,06,,1,2022-06-01
-2022,06,,45,2022-06-01
-2022,06,,24,2022-06-01
-2022,06,,29,2022-06-01
-2022,06,,34,2022-06-01
-2022,06,,10,2022-06-01
-2022,06,,14,2022-06-01
-2022,06,,1,2022-06-01
-2022,06,,157,2022-06-01
-2022,06,,19,2022-06-01
-2022,06,,16,2022-06-01
-2022,06,,441,2022-06-01
-2022,06,,761,2022-06-01
-2022,06,,198,2022-06-01
-2022,06,,2,2022-06-01
-2022,06,,90,2022-06-01
-2022,06,,19,2022-06-01
-2022,06,,8,2022-06-01
-2022,06,,4,2022-06-01
-2022,06,,14,2022-06-01
-2022,06,,1141,2022-06-01
-2022,06,,37,2022-06-01
-2022,06,,104,2022-06-01
-2022,06,,,2022-06-01
-2022,07,,217,2022-07-01
-2022,07,,,2022-07-01
-2022,07,,111,2022-07-01
-2022,07,,64,2022-07-01
-2022,07,,71,2022-07-01
-2022,07,,30,2022-07-01
-2022,07,,25,2022-07-01
-2022,07,,21,2022-07-01
-2022,07,,2,2022-07-01
-2022,07,,132,2022-07-01
-2022,07,,26,2022-07-01
-2022,07,,24,2022-07-01
-2022,07,,219,2022-07-01
-2022,07,,1236,2022-07-01
-2022,07,,300,2022-07-01
-2022,07,,2,2022-07-01
-2022,07,,122,2022-07-01
-2022,07,,42,2022-07-01
-2022,07,,8,2022-07-01
-2022,07,,3,2022-07-01
-2022,07,,15,2022-07-01
-2022,07,,1100,2022-07-01
-2022,07,,46,2022-07-01
-2022,07,,140,2022-07-01
-2022,07,,,2022-07-01
-2022,08,,140,2022-08-01
-2022,08,,1,2022-08-01
-2022,08,,55,2022-08-01
-2022,08,,69,2022-08-01
-2022,08,,40,2022-08-01
-2022,08,,18,2022-08-01
-2022,08,,35,2022-08-01
-2022,08,,30,2022-08-01
-2022,08,,3,2022-08-01
-2022,08,,110,2022-08-01
-2022,08,,33,2022-08-01
-2022,08,,46,2022-08-01
-2022,08,,274,2022-08-01
-2022,08,,1040,2022-08-01
-2022,08,,375,2022-08-01
-2022,08,,1,2022-08-01
-2022,08,,76,2022-08-01
-2022,08,,40,2022-08-01
-2022,08,,12,2022-08-01
-2022,08,,4,2022-08-01
-2022,08,,23,2022-08-01
-2022,08,,930,2022-08-01
-2022,08,,52,2022-08-01
-2022,08,,129,2022-08-01
-2022,08,,,2022-08-01
-2022,09,,121,2022-09-01
-2022,09,,,2022-09-01
-2022,09,,67,2022-09-01
-2022,09,,66,2022-09-01
-2022,09,,45,2022-09-01
-2022,09,,26,2022-09-01
-2022,09,,37,2022-09-01
-2022,09,,21,2022-09-01
-2022,09,,2,2022-09-01
-2022,09,,106,2022-09-01
-2022,09,,25,2022-09-01
-2022,09,,47,2022-09-01
-2022,09,,228,2022-09-01
-2022,09,,1090,2022-09-01
-2022,09,,420,2022-09-01
-2022,09,,5,2022-09-01
-2022,09,,96,2022-09-01
-2022,09,,39,2022-09-01
-2022,09,,4,2022-09-01
-2022,09,,2,2022-09-01
-2022,09,,19,2022-09-01
-2022,09,,750,2022-09-01
-2022,09,,21,2022-09-01
-2022,09,,186,2022-09-01
-2022,09,,,2022-09-01
-2022,10,,96,2022-10-01
-2022,10,,2,2022-10-01
-2022,10,,51,2022-10-01
-2022,10,,69,2022-10-01
-2022,10,,43,2022-10-01
-2022,10,,17,2022-10-01
-2022,10,,24,2022-10-01
-2022,10,,18,2022-10-01
-2022,10,,4,2022-10-01
-2022,10,,162,2022-10-01
-2022,10,,34,2022-10-01
-2022,10,,89,2022-10-01
-2022,10,,223,2022-10-01
-2022,10,,810,2022-10-01
-2022,10,,332,2022-10-01
-2022,10,,3,2022-10-01
-2022,10,,113,2022-10-01
-2022,10,,20,2022-10-01
-2022,10,,5,2022-10-01
-2022,10,,4,2022-10-01
-2022,10,,20,2022-10-01
-2022,10,,723,2022-10-01
-2022,10,,49,2022-10-01
-2022,10,,152,2022-10-01
-2022,10,,1,2022-10-01
-2022,11,,78,2022-11-01
-2022,11,,2,2022-11-01
-2022,11,,90,2022-11-01
-2022,11,,88,2022-11-01
-2022,11,,49,2022-11-01
-2022,11,,25,2022-11-01
-2022,11,,25,2022-11-01
-2022,11,,25,2022-11-01
-2022,11,,3,2022-11-01
-2022,11,,129,2022-11-01
-2022,11,,33,2022-11-01
-2022,11,,45,2022-11-01
-2022,11,,313,2022-11-01
-2022,11,,853,2022-11-01
-2022,11,,340,2022-11-01
-2022,11,,1,2022-11-01
-2022,11,,168,2022-11-01
-2022,11,,33,2022-11-01
-2022,11,,12,2022-11-01
-2022,11,,4,2022-11-01
-2022,11,,26,2022-11-01
-2022,11,,1049,2022-11-01
-2022,11,,28,2022-11-01
-2022,11,,180,2022-11-01
-2022,11,,,2022-11-01
-2022,12,,98,2022-12-01
-2022,12,,1,2022-12-01
-2022,12,,81,2022-12-01
-2022,12,,52,2022-12-01
-2022,12,,34,2022-12-01
-2022,12,,3,2022-12-01
-2022,12,,19,2022-12-01
-2022,12,,14,2022-12-01
-2022,12,,2,2022-12-01
-2022,12,,94,2022-12-01
-2022,12,,26,2022-12-01
-2022,12,,32,2022-12-01
-2022,12,,198,2022-12-01
-2022,12,,470,2022-12-01
-2022,12,,174,2022-12-01
-2022,12,,1,2022-12-01
-2022,12,,112,2022-12-01
-2022,12,,17,2022-12-01
-2022,12,,4,2022-12-01
-2022,12,,1,2022-12-01
-2022,12,,15,2022-12-01
-2022,12,,661,2022-12-01
-2022,12,,20,2022-12-01
-2022,12,,88,2022-12-01
-2022,12,,,2022-12-01
-2023,02,,83,2023-02-01
-2023,02,,,2023-02-01
-2023,02,,45,2023-02-01
-2023,02,,47,2023-02-01
-2023,02,,42,2023-02-01
-2023,02,,30,2023-02-01
-2023,02,,11,2023-02-01
-2023,02,,13,2023-02-01
-2023,02,,2,2023-02-01
-2023,02,,99,2023-02-01
-2023,02,,19,2023-02-01
-2023,02,,70,2023-02-01
-2023,02,,185,2023-02-01
-2023,02,,359,2023-02-01
-2023,02,,165,2023-02-01
-2023,02,,1,2023-02-01
-2023,02,,62,2023-02-01
-2023,02,,19,2023-02-01
-2023,02,,7,2023-02-01
-2023,02,,1,2023-02-01
-2023,02,,10,2023-02-01
-2023,02,,791,2023-02-01
-2023,02,,24,2023-02-01
-2023,02,,107,2023-02-01
-2023,02,,,2023-02-01
-2023,03,,469,2023-03-01
-2023,03,,,2023-03-01
-2023,03,,58,2023-03-01
-2023,03,,41,2023-03-01
-2023,03,,51,2023-03-01
-2023,03,,19,2023-03-01
-2023,03,,17,2023-03-01
-2023,03,,27,2023-03-01
-2023,03,,9,2023-03-01
-2023,03,,124,2023-03-01
-2023,03,,14,2023-03-01
-2023,03,,50,2023-03-01
-2023,03,,156,2023-03-01
-2023,03,,308,2023-03-01
-2023,03,,179,2023-03-01
-2023,03,,2,2023-03-01
-2023,03,,80,2023-03-01
-2023,03,,17,2023-03-01
-2023,03,,10,2023-03-01
-2023,03,,1,2023-03-01
-2023,03,,13,2023-03-01
-2023,03,,726,2023-03-01
-2023,03,,47,2023-03-01
-2023,03,,128,2023-03-01
-2023,03,,,2023-03-01
-2023,04,,253,2023-04-01
-2023,04,,8,2023-04-01
-2023,04,,44,2023-04-01
-2023,04,,60,2023-04-01
-2023,04,,62,2023-04-01
-2023,04,,20,2023-04-01
-2023,04,,19,2023-04-01
-2023,04,,15,2023-04-01
-2023,04,,3,2023-04-01
-2023,04,,89,2023-04-01
-2023,04,,23,2023-04-01
-2023,04,,90,2023-04-01
-2023,04,,179,2023-04-01
-2023,04,,306,2023-04-01
-2023,04,,130,2023-04-01
-2023,04,,,2023-04-01
-2023,04,,60,2023-04-01
-2023,04,,16,2023-04-01
-2023,04,,3,2023-04-01
-2023,04,,,2023-04-01
-2023,04,,10,2023-04-01
-2023,04,,649,2023-04-01
-2023,04,,26,2023-04-01
-2023,04,,114,2023-04-01
-2023,04,,,2023-04-01
-2023,05,,91,2023-05-01
-2023,05,,,2023-05-01
-2023,05,,78,2023-05-01
-2023,05,,90,2023-05-01
-2023,05,,86,2023-05-01
-2023,05,,23,2023-05-01
-2023,05,,15,2023-05-01
-2023,05,,35,2023-05-01
-2023,05,,9,2023-05-01
-2023,05,,136,2023-05-01
-2023,05,,30,2023-05-01
-2023,05,,54,2023-05-01
-2023,05,,261,2023-05-01
-2023,05,,360,2023-05-01
-2023,05,,197,2023-05-01
-2023,05,,1,2023-05-01
-2023,05,,73,2023-05-01
-2023,05,,27,2023-05-01
-2023,05,,5,2023-05-01
-2023,05,,,2023-05-01
-2023,05,,20,2023-05-01
-2023,05,,1012,2023-05-01
-2023,05,,29,2023-05-01
-2023,05,,126,2023-05-01
-2023,05,,,2023-05-01
-2023,06,,56,2023-06-01
-2023,06,,4,2023-06-01
-2023,06,,78,2023-06-01
-2023,06,,81,2023-06-01
-2023,06,,137,2023-06-01
-2023,06,,29,2023-06-01
-2023,06,,22,2023-06-01
-2023,06,,46,2023-06-01
-2023,06,,2,2023-06-01
-2023,06,,129,2023-06-01
-2023,06,,38,2023-06-01
-2023,06,,83,2023-06-01
-2023,06,,271,2023-06-01
-2023,06,,521,2023-06-01
-2023,06,,252,2023-06-01
-2023,06,,1,2023-06-01
-2023,06,,118,2023-06-01
-2023,06,,15,2023-06-01
-2023,06,,7,2023-06-01
-2023,06,,3,2023-06-01
-2023,06,,23,2023-06-01
-2023,06,,1040,2023-06-01
-2023,06,,41,2023-06-01
-2023,06,,140,2023-06-01
-2023,06,,1,2023-06-01
-2023,07,,62,2023-07-01
-2023,07,,2,2023-07-01
-2023,07,,77,2023-07-01
-2023,07,,82,2023-07-01
-2023,07,,158,2023-07-01
-2023,07,,29,2023-07-01
-2023,07,,17,2023-07-01
-2023,07,,56,2023-07-01
-2023,07,,21,2023-07-01
-2023,07,,110,2023-07-01
-2023,07,,25,2023-07-01
-2023,07,,70,2023-07-01
-2023,07,,238,2023-07-01
-2023,07,,487,2023-07-01
-2023,07,,224,2023-07-01
-2023,07,,1,2023-07-01
-2023,07,,103,2023-07-01
-2023,07,,19,2023-07-01
-2023,07,,5,2023-07-01
-2023,07,,2,2023-07-01
-2023,07,,28,2023-07-01
-2023,07,,1064,2023-07-01
-2023,07,,18,2023-07-01
-2023,07,,133,2023-07-01
-2023,07,,,2023-07-01
-2023,08,,56,2023-08-01
-2023,08,,3,2023-08-01
-2023,08,,50,2023-08-01
-2023,08,,91,2023-08-01
-2023,08,,55,2023-08-01
-2023,08,,26,2023-08-01
-2023,08,,25,2023-08-01
-2023,08,,45,2023-08-01
-2023,08,,13,2023-08-01
-2023,08,,111,2023-08-01
-2023,08,,13,2023-08-01
-2023,08,,87,2023-08-01
-2023,08,,229,2023-08-01
-2023,08,,434,2023-08-01
-2023,08,,225,2023-08-01
-2023,08,,1,2023-08-01
-2023,08,,83,2023-08-01
-2023,08,,16,2023-08-01
-2023,08,,13,2023-08-01
-2023,08,,5,2023-08-01
-2023,08,,24,2023-08-01
-2023,08,,635,2023-08-01
-2023,08,,19,2023-08-01
-2023,08,,152,2023-08-01
-2023,08,,,2023-08-01
-2023,09,,42,2023-09-01
-2023,09,,1,2023-09-01
-2023,09,,56,2023-09-01
-2023,09,,54,2023-09-01
-2023,09,,58,2023-09-01
-2023,09,,16,2023-09-01
-2023,09,,37,2023-09-01
-2023,09,,32,2023-09-01
-2023,09,,10,2023-09-01
-2023,09,,93,2023-09-01
-2023,09,,24,2023-09-01
-2023,09,,113,2023-09-01
-2023,09,,215,2023-09-01
-2023,09,,386,2023-09-01
-2023,09,,219,2023-09-01
-2023,09,,1,2023-09-01
-2023,09,,61,2023-09-01
-2023,09,,36,2023-09-01
-2023,09,,8,2023-09-01
-2023,09,,,2023-09-01
-2023,09,,28,2023-09-01
-2023,09,,558,2023-09-01
-2023,09,,30,2023-09-01
-2023,09,,125,2023-09-01
-2023,09,,,2023-09-01
-2023,10,,43,2023-10-01
-2023,10,,7,2023-10-01
-2023,10,,57,2023-10-01
-2023,10,,96,2023-10-01
-2023,10,,45,2023-10-01
-2023,10,,22,2023-10-01
-2023,10,,33,2023-10-01
-2023,10,,34,2023-10-01
-2023,10,,4,2023-10-01
-2023,10,,143,2023-10-01
-2023,10,,33,2023-10-01
-2023,10,,70,2023-10-01
-2023,10,,236,2023-10-01
-2023,10,,448,2023-10-01
-2023,10,,202,2023-10-01
-2023,10,,,2023-10-01
-2023,10,,92,2023-10-01
-2023,10,,36,2023-10-01
-2023,10,,8,2023-10-01
-2023,10,,1,2023-10-01
-2023,10,,29,2023-10-01
-2023,10,,754,2023-10-01
-2023,10,,39,2023-10-01
-2023,10,,112,2023-10-01
-2023,10,,,2023-10-01
-2023,11,,66,2023-11-01
-2023,11,,1,2023-11-01
-2023,11,,91,2023-11-01
-2023,11,,120,2023-11-01
-2023,11,,64,2023-11-01
-2023,11,,13,2023-11-01
-2023,11,,23,2023-11-01
-2023,11,,30,2023-11-01
-2023,11,,9,2023-11-01
-2023,11,,114,2023-11-01
-2023,11,,38,2023-11-01
-2023,11,,126,2023-11-01
-2023,11,,260,2023-11-01
-2023,11,,456,2023-11-01
-2023,11,,233,2023-11-01
-2023,11,,4,2023-11-01
-2023,11,,94,2023-11-01
-2023,11,,32,2023-11-01
-2023,11,,3,2023-11-01
-2023,11,,,2023-11-01
-2023,11,,31,2023-11-01
-2023,11,,1009,2023-11-01
-2023,11,,24,2023-11-01
-2023,11,,164,2023-11-01
-2023,11,,,2023-11-01
-2023,12,,77,2023-12-01
-2023,12,,3,2023-12-01
-2023,12,,59,2023-12-01
-2023,12,,53,2023-12-01
-2023,12,,51,2023-12-01
-2023,12,,18,2023-12-01
-2023,12,,34,2023-12-01
-2023,12,,18,2023-12-01
-2023,12,,4,2023-12-01
-2023,12,,99,2023-12-01
-2023,12,,20,2023-12-01
-2023,12,,50,2023-12-01
-2023,12,,163,2023-12-01
-2023,12,,517,2023-12-01
-2023,12,,157,2023-12-01
-2023,12,,,2023-12-01
-2023,12,,66,2023-12-01
-2023,12,,28,2023-12-01
-2023,12,,4,2023-12-01
-2023,12,,,2023-12-01
-2023,12,,16,2023-12-01
-2023,12,,887,2023-12-01
-2023,12,,14,2023-12-01
-2023,12,,109,2023-12-01
-2023,12,,,2023-12-01
-2024,,B - Mining & Quarrying,2,
-2024,,C - All Other Manufacturing,58,
-2024,,C - Manufacture of Chemicals & Pharmaceuticals,69,
-2024,,"C - Manufacture of Computers, Electronics & Optica",47,
-2024,,"C - Manufacture of Food, Drink & Tobacco",41,
-2024,,C - Manufacture of Medical Devices,36,
-2024,,D - Electricity & Gas & Air Conditioning Supply,41,
-2024,,E - Water Supply - Sewerage Waste Management & Rem,10,
-2024,,E - Water Supply Waste Management & Remedial Activ,,
-2024,,F - Construction,96,
-2024,,G - Wholesale & Retail Trade,33,
-2024,,H - Transport & Storage,78,
-2024,,I - Accommodation & Food Services activities,226,
-2024,,J - Information & Communication Activities,592,
-2024,,K - Financial & insurance Activities,162,
-2024,,L - Real Estate Activities,4,
-2024,,"M - All other Professional, Scientific & Technical",73,
-2024,,"M - Professional, Scientific&Technical Activities",13,
-2024,,N - Administrative & Support Service Activities,5,
-2024,,O - Public Administration & Defence,1,
-2024,,P - Education,22,
-2024,,Q - Health & Social Work Activities,1431,
-2024,,"R - Arts , Entertainment and Recreation",18,
-2024,,S - Other Service activities,113,
-2024,,T - Domestic- Activities of Households as Employer,,
-2024,,B - Mining & Quarrying,2,
-2024,,C - All Other Manufacturing,107,
-2024,,C - Manufacture of Chemicals & Pharmaceuticals,56,
-2024,,"C - Manufacture of Computers, Electronics & Optica",50,
-2024,,"C - Manufacture of Food, Drink & Tobacco",47,
-2024,,C - Manufacture of Medical Devices,23,
-2024,,D - Electricity & Gas & Air Conditioning Supply,34,
-2024,,E - Water Supply - Sewerage Waste Management & Rem,13,
-2024,,E - Water Supply Waste Management & Remedial Activ,,
-2024,,F - Construction,87,
-2024,,G - Wholesale & Retail Trade,43,
-2024,,H - Transport & Storage,68,
-2024,,I - Accommodation & Food Services activities,279,
-2024,,J - Information & Communication Activities,511,
-2024,,K - Financial & insurance Activities,149,
-2024,,L - Real Estate Activities,2,
-2024,,"M - All other Professional, Scientific & Technical",76,
-2024,,"M - Professional, Scientific&Technical Activities",17,
-2024,,N - Administrative & Support Service Activities,10,
-2024,,O - Public Administration & Defence,2,
-2024,,P - Education,38,
-2024,,Q - Health & Social Work Activities,1089,
-2024,,"R - Arts , Entertainment and Recreation",44,
-2024,,S - Other Service activities,115,
-2024,,T - Domestic- Activities of Households as Employer,,
-2024,,B - Mining & Quarrying,4,
-2024,,C - All Other Manufacturing,49,
-2024,,C - Manufacture of Chemicals & Pharmaceuticals,60,
-2024,,"C - Manufacture of Computers, Electronics & Optica",24,
-2024,,"C - Manufacture of Food, Drink & Tobacco",27,
-2024,,C - Manufacture of Medical Devices,11,
-2024,,D - Electricity & Gas & Air Conditioning Supply,35,
-2024,,E - Water Supply - Sewerage Waste Management & Rem,9,
-2024,,E - Water Supply Waste Management & Remedial Activ,,
-2024,,F - Construction,79,
-2024,,G - Wholesale & Retail Trade,19,
-2024,,H - Transport & Storage,38,
-2024,,I - Accommodation & Food Services activities,131,
-2024,,J - Information & Communication Activities,601,
-2024,,K - Financial & insurance Activities,235,
-2024,,L - Real Estate Activities,3,
-2024,,"M - All other Professional, Scientific & Technical",94,
-2024,,"M - Professional, Scientific&Technical Activities",17,
-2024,,N - Administrative & Support Service Activities,6,
-2024,,O - Public Administration & Defence,3,
-2024,,P - Education,17,
-2024,,Q - Health & Social Work Activities,1211,
-2024,,"R - Arts , Entertainment and Recreation",39,
-2024,,S - Other Service activities,87,
-2024,,T - Domestic- Activities of Households as Employer,2,
-2024,,B - Mining & Quarrying,4,
-2024,,C - All Other Manufacturing,96,
-2024,,C - Manufacture of Chemicals & Pharmaceuticals,66,
-2024,,"C - Manufacture of Computers, Electronics & Optica",78,
-2024,,"C - Manufacture of Food, Drink & Tobacco",44,
-2024,,C - Manufacture of Medical Devices,62,
-2024,,D - Electricity & Gas & Air Conditioning Supply,53,
-2024,,E - Water Supply - Sewerage Waste Management & Rem,1,
-2024,,E - Water Supply Waste Management & Remedial Activ,,
-2024,,F - Construction,133,
-2024,,G - Wholesale & Retail Trade,21,
-2024,,H - Transport & Storage,108,
-2024,,I - Accommodation & Food Services activities,291,
-2024,,J - Information & Communication Activities,663,
-2024,,K - Financial & insurance Activities,182,
-2024,,L - Real Estate Activities,2,
-2024,,"M - All other Professional, Scientific & Technical",75,
-2024,,"M - Professional, Scientific&Technical Activities",16,
-2024,,N - Administrative & Support Service Activities,8,
-2024,,O - Public Administration & Defence,5,
-2024,,P - Education,30,
-2024,,Q - Health & Social Work Activities,1145,
-2024,,"R - Arts , Entertainment and Recreation",79,
-2024,,S - Other Service activities,140,
-2024,,T - Domestic- Activities of Households as Employer,1,
-2024,,B - Mining & Quarrying,3,
-2024,,C - All Other Manufacturing,91,
-2024,,C - Manufacture of Chemicals & Pharmaceuticals,56,
-2024,,"C - Manufacture of Computers, Electronics & Optica",31,
-2024,,"C - Manufacture of Food, Drink & Tobacco",16,
-2024,,C - Manufacture of Medical Devices,14,
-2024,,D - Electricity & Gas & Air Conditioning Supply,27,
-2024,,E - Water Supply - Sewerage Waste Management & Rem,3,
-2024,,E - Water Supply Waste Management & Remedial Activ,,
-2024,,F - Construction,148,
-2024,,G - Wholesale & Retail Trade,41,
-2024,,H - Transport & Storage,133,
-2024,,I - Accommodation & Food Services activities,343,
-2024,,J - Information & Communication Activities,374,
-2024,,K - Financial & insurance Activities,140,
-2024,,L - Real Estate Activities,1,
-2024,,"M - All other Professional, Scientific & Technical",60,
-2024,,"M - Professional, Scientific&Technical Activities",12,
-2024,,N - Administrative & Support Service Activities,10,
-2024,,O - Public Administration & Defence,,
-2024,,P - Education,20,
-2024,,Q - Health & Social Work Activities,872,
-2024,,"R - Arts , Entertainment and Recreation",51,
-2024,,S - Other Service activities,117,
-2024,,T - Domestic- Activities of Households as Employer,,
-2024,,B - Mining & Quarrying,4,
-2024,,C - All Other Manufacturing,75,
-2024,,C - Manufacture of Chemicals & Pharmaceuticals,56,
-2024,,"C - Manufacture of Computers, Electronics & Optica",41,
-2024,,"C - Manufacture of Food, Drink & Tobacco",23,
-2024,,C - Manufacture of Medical Devices,19,
-2024,,D - Electricity & Gas & Air Conditioning Supply,43,
-2024,,E - Water Supply - Sewerage Waste Management & Rem,4,
-2024,,E - Water Supply Waste Management & Remedial Activ,,
-2024,,F - Construction,120,
-2024,,G - Wholesale & Retail Trade,58,
-2024,,H - Transport & Storage,109,
-2024,,I - Accommodation & Food Services activities,188,
-2024,,J - Information & Communication Activities,541,
-2024,,K - Financial & insurance Activities,167,
-2024,,L - Real Estate Activities,2,
-2024,,"M - All other Professional, Scientific & Technical",46,
-2024,,"M - Professional, Scientific&Technical Activities",16,
-2024,,N - Administrative & Support Service Activities,7,
-2024,,O - Public Administration & Defence,,
-2024,,P - Education,22,
-2024,,Q - Health & Social Work Activities,1056,
-2024,,"R - Arts , Entertainment and Recreation",37,
-2024,,S - Other Service activities,104,
-2024,,T - Domestic- Activities of Households as Employer,,
-2024,,B - Mining & Quarrying,1,
-2024,,C - All Other Manufacturing,117,
-2024,,C - Manufacture of Chemicals & Pharmaceuticals,105,
-2024,,"C - Manufacture of Computers, Electronics & Optica",80,
-2024,,"C - Manufacture of Food, Drink & Tobacco",38,
-2024,,C - Manufacture of Medical Devices,40,
-2024,,D - Electricity & Gas & Air Conditioning Supply,33,
-2024,,E - Water Supply - Sewerage Waste Management & Rem,13,
-2024,,E - Water Supply Waste Management & Remedial Activ,1,
-2024,,F - Construction,173,
-2024,,G - Wholesale & Retail Trade,40,
-2024,,H - Transport & Storage,143,
-2024,,I - Accommodation & Food Services activities,395,
-2024,,J - Information & Communication Activities,753,
-2024,,K - Financial & insurance Activities,245,
-2024,,L - Real Estate Activities,4,
-2024,,"M - All other Professional, Scientific & Technical",74,
-2024,,"M - Professional, Scientific&Technical Activities",31,
-2024,,N - Administrative & Support Service Activities,7,
-2024,,O - Public Administration & Defence,,
-2024,,P - Education,26,
-2024,,Q - Health & Social Work Activities,1476,
-2024,,"R - Arts , Entertainment and Recreation",85,
-2024,,S - Other Service activities,237,
-2024,,T - Domestic- Activities of Households as Employer,,
-2024,,B - Mining & Quarrying,4,
-2024,,C - All Other Manufacturing,76,
-2024,,C - Manufacture of Chemicals & Pharmaceuticals,81,
-2024,,"C - Manufacture of Computers, Electronics & Optica",30,
-2024,,"C - Manufacture of Food, Drink & Tobacco",28,
-2024,,C - Manufacture of Medical Devices,13,
-2024,,D - Electricity & Gas & Air Conditioning Supply,53,
-2024,,E - Water Supply - Sewerage Waste Management & Rem,10,
-2024,,E - Water Supply Waste Management & Remedial Activ,,
-2024,,F - Construction,138,
-2024,,G - Wholesale & Retail Trade,46,
-2024,,H - Transport & Storage,174,
-2024,,I - Accommodation & Food Services activities,385,
-2024,,J - Information & Communication Activities,594,
-2024,,K - Financial & insurance Activities,237,
-2024,,L - Real Estate Activities,1,
-2024,,"M - All other Professional, Scientific & Technical",65,
-2024,,"M - Professional, Scientific&Technical Activities",21,
-2024,,N - Administrative & Support Service Activities,10,
-2024,,O - Public Administration & Defence,2,
-2024,,P - Education,43,
-2024,,Q - Health & Social Work Activities,843,
-2024,,"R - Arts , Entertainment and Recreation",33,
-2024,,S - Other Service activities,204,
-2024,,T - Domestic- Activities of Households as Employer,,
-2024,,B - Mining & Quarrying,3,
-2024,,C - All Other Manufacturing,83,
-2024,,C - Manufacture of Chemicals & Pharmaceuticals,44,
-2024,,"C - Manufacture of Computers, Electronics & Optica",38,
-2024,,"C - Manufacture of Food, Drink & Tobacco",24,
-2024,,C - Manufacture of Medical Devices,11,
-2024,,D - Electricity & Gas & Air Conditioning Supply,41,
-2024,,E - Water Supply - Sewerage Waste Management & Rem,8,
-2024,,E - Water Supply Waste Management & Remedial Activ,,
-2024,,F - Construction,128,
-2024,,G - Wholesale & Retail Trade,29,
-2024,,H - Transport & Storage,77,
-2024,,I - Accommodation & Food Services activities,254,
-2024,,J - Information & Communication Activities,538,
-2024,,K - Financial & insurance Activities,227,
-2024,,L - Real Estate Activities,,
-2024,,"M - All other Professional, Scientific & Technical",43,
-2024,,"M - Professional, Scientific&Technical Activities",35,
-2024,,N - Administrative & Support Service Activities,4,
-2024,,O - Public Administration & Defence,2,
-2024,,P - Education,32,
-2024,,Q - Health & Social Work Activities,777,
-2024,,"R - Arts , Entertainment and Recreation",60,
-2024,,S - Other Service activities,119,
-2024,,T - Domestic- Activities of Households as Employer,,
-2024,,B - Mining & Quarrying,1,
-2024,,C - All Other Manufacturing,66,
-2024,,C - Manufacture of Chemicals & Pharmaceuticals,65,
-2024,,"C - Manufacture of Computers, Electronics & Optica",47,
-2024,,"C - Manufacture of Food, Drink & Tobacco",21,
-2024,,C - Manufacture of Medical Devices,13,
-2024,,D - Electricity & Gas & Air Conditioning Supply,47,
-2024,,E - Water Supply - Sewerage Waste Management & Rem,4,
-2024,,E - Water Supply Waste Management & Remedial Activ,,
-2024,,F - Construction,123,
-2024,,G - Wholesale & Retail Trade,36,
-2024,,H - Transport & Storage,129,
-2024,,I - Accommodation & Food Services activities,292,
-2024,,J - Information & Communication Activities,472,
-2024,,K - Financial & insurance Activities,192,
-2024,,L - Real Estate Activities,1,
-2024,,"M - All other Professional, Scientific & Technical",51,
-2024,,"M - Professional, Scientific&Technical Activities",22,
-2024,,N - Administrative & Support Service Activities,9,
-2024,,O - Public Administration & Defence,4,
-2024,,P - Education,35,
-2024,,Q - Health & Social Work Activities,751,
-2024,,"R - Arts , Entertainment and Recreation",39,
-2024,,S - Other Service activities,180,
-2024,,T - Domestic- Activities of Households as Employer,,
-2024,,B - Mining & Quarrying,6,
-2024,,C - All Other Manufacturing,71,
-2024,,C - Manufacture of Chemicals & Pharmaceuticals,81,
-2024,,"C - Manufacture of Computers, Electronics & Optica",59,
-2024,,"C - Manufacture of Food, Drink & Tobacco",31,
-2024,,C - Manufacture of Medical Devices,31,
-2024,,D - Electricity & Gas & Air Conditioning Supply,30,
-2024,,E - Water Supply - Sewerage Waste Management & Rem,3,
-2024,,E - Water Supply Waste Management & Remedial Activ,,
-2024,,F - Construction,140,
-2024,,G - Wholesale & Retail Trade,37,
-2024,,H - Transport & Storage,137,
-2024,,I - Accommodation & Food Services activities,297,
-2024,,J - Information & Communication Activities,572,
-2024,,K - Financial & insurance Activities,211,
-2024,,L - Real Estate Activities,4,
-2024,,"M - All other Professional, Scientific & Technical",73,
-2024,,"M - Professional, Scientific&Technical Activities",33,
-2024,,N - Administrative & Support Service Activities,6,
-2024,,O - Public Administration & Defence,4,
-2024,,P - Education,37,
-2024,,Q - Health & Social Work Activities,1042,
-2024,,"R - Arts , Entertainment and Recreation",62,
-2024,,S - Other Service activities,178,
-2024,,T - Domestic- Activities of Households as Employer,,
-2024,,B - Mining & Quarrying,3,
-2024,,C - All Other Manufacturing,92,
-2024,,C - Manufacture of Chemicals & Pharmaceuticals,90,
-2024,,"C - Manufacture of Computers, Electronics & Optica",45,
-2024,,"C - Manufacture of Food, Drink & Tobacco",13,
-2024,,C - Manufacture of Medical Devices,16,
-2024,,D - Electricity & Gas & Air Conditioning Supply,26,
-2024,,E - Water Supply - Sewerage Waste Management & Rem,7,
-2024,,E - Water Supply Waste Management & Remedial Activ,,
-2024,,F - Construction,158,
-2024,,G - Wholesale & Retail Trade,38,
-2024,,H - Transport & Storage,88,
-2024,,I - Accommodation & Food Services activities,277,
-2024,,J - Information & Communication Activities,577,
-2024,,K - Financial & insurance Activities,171,
-2024,,L - Real Estate Activities,,
-2024,,"M - All other Professional, Scientific & Technical",76,
-2024,,"M - Professional, Scientific&Technical Activities",53,
-2024,,N - Administrative & Support Service Activities,7,
-2024,,O - Public Administration & Defence,,
-2024,,P - Education,35,
-2024,,Q - Health & Social Work Activities,808,
-2024,,"R - Arts , Entertainment and Recreation",39,
-2024,,S - Other Service activities,178,
-2024,,T - Domestic- Activities of Households as Employer,,
+2022,01,"A - Agriculture, Forestry & Fishing",146,2022-01-01
+2022,01,B - Mining & Quarrying,5,2022-01-01
+2022,01,C - All Other Manufacturing,15,2022-01-01
+2022,01,C - Manufacture of Chemicals & Pharmaceuticals,30,2022-01-01
+2022,01,"C - Manufacture of Computers, Electronics & Optica",5,2022-01-01
+2022,01,"C - Manufacture of Food, Drink & Tobacco",8,2022-01-01
+2022,01,C - Manufacture of Medical Devices,8,2022-01-01
+2022,01,D - Electricity & Gas & Air Conditioning Supply,4,2022-01-01
+2022,01,E - Water Supply - Sewerage Waste Management & Rem,1,2022-01-01
+2022,01,F - Construction,81,2022-01-01
+2022,01,G - Wholesale & Retail Trade,9,2022-01-01
+2022,01,H - Transport & Storage,13,2022-01-01
+2022,01,I - Accommodation & Food Services activities,51,2022-01-01
+2022,01,J - Information & Communication Activities,442,2022-01-01
+2022,01,K - Financial & insurance Activities,143,2022-01-01
+2022,01,L - Real Estate Activities,1,2022-01-01
+2022,01,"M - All other Professional, Scientific & Technical",13,2022-01-01
+2022,01,"M - Professional, Scientific&Technical Activities",10,2022-01-01
+2022,01,N - Administrative & Support Service Activities,2,2022-01-01
+2022,01,O - Public Administration & Defence,0,2022-01-01
+2022,01,P - Education,18,2022-01-01
+2022,01,Q - Health & Social Work Activities,1213,2022-01-01
+2022,01,"R - Arts , Entertainment and Recreation",4,2022-01-01
+2022,01,S - Other Service activities,56,2022-01-01
+2022,01,T - Domestic- Activities of Households as Employer,0,2022-01-01
+2022,02,"A - Agriculture, Forestry & Fishing",149,2022-02-01
+2022,02,B - Mining & Quarrying,1,2022-02-01
+2022,02,C - All Other Manufacturing,36,2022-02-01
+2022,02,C - Manufacture of Chemicals & Pharmaceuticals,49,2022-02-01
+2022,02,"C - Manufacture of Computers, Electronics & Optica",48,2022-02-01
+2022,02,"C - Manufacture of Food, Drink & Tobacco",17,2022-02-01
+2022,02,C - Manufacture of Medical Devices,17,2022-02-01
+2022,02,D - Electricity & Gas & Air Conditioning Supply,9,2022-02-01
+2022,02,E - Water Supply - Sewerage Waste Management & Rem,4,2022-02-01
+2022,02,F - Construction,136,2022-02-01
+2022,02,G - Wholesale & Retail Trade,22,2022-02-01
+2022,02,H - Transport & Storage,21,2022-02-01
+2022,02,I - Accommodation & Food Services activities,123,2022-02-01
+2022,02,J - Information & Communication Activities,934,2022-02-01
+2022,02,K - Financial & insurance Activities,230,2022-02-01
+2022,02,L - Real Estate Activities,0,2022-02-01
+2022,02,"M - All other Professional, Scientific & Technical",70,2022-02-01
+2022,02,"M - Professional, Scientific&Technical Activities",44,2022-02-01
+2022,02,N - Administrative & Support Service Activities,11,2022-02-01
+2022,02,O - Public Administration & Defence,4,2022-02-01
+2022,02,P - Education,13,2022-02-01
+2022,02,Q - Health & Social Work Activities,461,2022-02-01
+2022,02,"R - Arts , Entertainment and Recreation",14,2022-02-01
+2022,02,S - Other Service activities,126,2022-02-01
+2022,02,T - Domestic- Activities of Households as Employer,0,2022-02-01
+2022,03,"A - Agriculture, Forestry & Fishing",274,2022-03-01
+2022,03,B - Mining & Quarrying,2,2022-03-01
+2022,03,C - All Other Manufacturing,50,2022-03-01
+2022,03,C - Manufacture of Chemicals & Pharmaceuticals,55,2022-03-01
+2022,03,"C - Manufacture of Computers, Electronics & Optica",55,2022-03-01
+2022,03,"C - Manufacture of Food, Drink & Tobacco",43,2022-03-01
+2022,03,C - Manufacture of Medical Devices,26,2022-03-01
+2022,03,D - Electricity & Gas & Air Conditioning Supply,18,2022-03-01
+2022,03,E - Water Supply - Sewerage Waste Management & Rem,0,2022-03-01
+2022,03,F - Construction,127,2022-03-01
+2022,03,G - Wholesale & Retail Trade,33,2022-03-01
+2022,03,H - Transport & Storage,45,2022-03-01
+2022,03,I - Accommodation & Food Services activities,175,2022-03-01
+2022,03,J - Information & Communication Activities,1260,2022-03-01
+2022,03,K - Financial & insurance Activities,379,2022-03-01
+2022,03,L - Real Estate Activities,1,2022-03-01
+2022,03,"M - All other Professional, Scientific & Technical",64,2022-03-01
+2022,03,"M - Professional, Scientific&Technical Activities",69,2022-03-01
+2022,03,N - Administrative & Support Service Activities,8,2022-03-01
+2022,03,O - Public Administration & Defence,4,2022-03-01
+2022,03,P - Education,15,2022-03-01
+2022,03,Q - Health & Social Work Activities,564,2022-03-01
+2022,03,"R - Arts , Entertainment and Recreation",18,2022-03-01
+2022,03,S - Other Service activities,173,2022-03-01
+2022,03,T - Domestic- Activities of Households as Employer,0,2022-03-01
+2022,04,"A - Agriculture, Forestry & Fishing",1407,2022-04-01
+2022,04,B - Mining & Quarrying,0,2022-04-01
+2022,04,C - All Other Manufacturing,53,2022-04-01
+2022,04,C - Manufacture of Chemicals & Pharmaceuticals,70,2022-04-01
+2022,04,"C - Manufacture of Computers, Electronics & Optica",87,2022-04-01
+2022,04,"C - Manufacture of Food, Drink & Tobacco",105,2022-04-01
+2022,04,C - Manufacture of Medical Devices,28,2022-04-01
+2022,04,D - Electricity & Gas & Air Conditioning Supply,16,2022-04-01
+2022,04,E - Water Supply - Sewerage Waste Management & Rem,2,2022-04-01
+2022,04,F - Construction,109,2022-04-01
+2022,04,G - Wholesale & Retail Trade,34,2022-04-01
+2022,04,H - Transport & Storage,75,2022-04-01
+2022,04,I - Accommodation & Food Services activities,172,2022-04-01
+2022,04,J - Information & Communication Activities,872,2022-04-01
+2022,04,K - Financial & insurance Activities,234,2022-04-01
+2022,04,L - Real Estate Activities,3,2022-04-01
+2022,04,"M - All other Professional, Scientific & Technical",56,2022-04-01
+2022,04,"M - Professional, Scientific&Technical Activities",23,2022-04-01
+2022,04,N - Administrative & Support Service Activities,7,2022-04-01
+2022,04,O - Public Administration & Defence,6,2022-04-01
+2022,04,P - Education,13,2022-04-01
+2022,04,Q - Health & Social Work Activities,496,2022-04-01
+2022,04,"R - Arts , Entertainment and Recreation",29,2022-04-01
+2022,04,S - Other Service activities,115,2022-04-01
+2022,04,T - Domestic- Activities of Households as Employer,0,2022-04-01
+2022,05,"A - Agriculture, Forestry & Fishing",877,2022-05-01
+2022,05,B - Mining & Quarrying,0,2022-05-01
+2022,05,C - All Other Manufacturing,47,2022-05-01
+2022,05,C - Manufacture of Chemicals & Pharmaceuticals,46,2022-05-01
+2022,05,"C - Manufacture of Computers, Electronics & Optica",104,2022-05-01
+2022,05,"C - Manufacture of Food, Drink & Tobacco",31,2022-05-01
+2022,05,C - Manufacture of Medical Devices,58,2022-05-01
+2022,05,D - Electricity & Gas & Air Conditioning Supply,19,2022-05-01
+2022,05,E - Water Supply - Sewerage Waste Management & Rem,1,2022-05-01
+2022,05,F - Construction,131,2022-05-01
+2022,05,G - Wholesale & Retail Trade,30,2022-05-01
+2022,05,H - Transport & Storage,59,2022-05-01
+2022,05,I - Accommodation & Food Services activities,303,2022-05-01
+2022,05,J - Information & Communication Activities,1064,2022-05-01
+2022,05,K - Financial & insurance Activities,226,2022-05-01
+2022,05,L - Real Estate Activities,1,2022-05-01
+2022,05,"M - All other Professional, Scientific & Technical",92,2022-05-01
+2022,05,"M - Professional, Scientific&Technical Activities",32,2022-05-01
+2022,05,N - Administrative & Support Service Activities,5,2022-05-01
+2022,05,O - Public Administration & Defence,5,2022-05-01
+2022,05,P - Education,16,2022-05-01
+2022,05,Q - Health & Social Work Activities,703,2022-05-01
+2022,05,"R - Arts , Entertainment and Recreation",22,2022-05-01
+2022,05,S - Other Service activities,123,2022-05-01
+2022,05,T - Domestic- Activities of Households as Employer,1,2022-05-01
+2022,06,"A - Agriculture, Forestry & Fishing",708,2022-06-01
+2022,06,B - Mining & Quarrying,1,2022-06-01
+2022,06,C - All Other Manufacturing,45,2022-06-01
+2022,06,C - Manufacture of Chemicals & Pharmaceuticals,24,2022-06-01
+2022,06,"C - Manufacture of Computers, Electronics & Optica",29,2022-06-01
+2022,06,"C - Manufacture of Food, Drink & Tobacco",34,2022-06-01
+2022,06,C - Manufacture of Medical Devices,10,2022-06-01
+2022,06,D - Electricity & Gas & Air Conditioning Supply,14,2022-06-01
+2022,06,E - Water Supply - Sewerage Waste Management & Rem,1,2022-06-01
+2022,06,F - Construction,157,2022-06-01
+2022,06,G - Wholesale & Retail Trade,19,2022-06-01
+2022,06,H - Transport & Storage,16,2022-06-01
+2022,06,I - Accommodation & Food Services activities,441,2022-06-01
+2022,06,J - Information & Communication Activities,761,2022-06-01
+2022,06,K - Financial & insurance Activities,198,2022-06-01
+2022,06,L - Real Estate Activities,2,2022-06-01
+2022,06,"M - All other Professional, Scientific & Technical",90,2022-06-01
+2022,06,"M - Professional, Scientific&Technical Activities",19,2022-06-01
+2022,06,N - Administrative & Support Service Activities,8,2022-06-01
+2022,06,O - Public Administration & Defence,4,2022-06-01
+2022,06,P - Education,14,2022-06-01
+2022,06,Q - Health & Social Work Activities,1141,2022-06-01
+2022,06,"R - Arts , Entertainment and Recreation",37,2022-06-01
+2022,06,S - Other Service activities,104,2022-06-01
+2022,06,T - Domestic- Activities of Households as Employer,0,2022-06-01
+2022,07,"A - Agriculture, Forestry & Fishing",217,2022-07-01
+2022,07,B - Mining & Quarrying,0,2022-07-01
+2022,07,C - All Other Manufacturing,111,2022-07-01
+2022,07,C - Manufacture of Chemicals & Pharmaceuticals,64,2022-07-01
+2022,07,"C - Manufacture of Computers, Electronics & Optica",71,2022-07-01
+2022,07,"C - Manufacture of Food, Drink & Tobacco",30,2022-07-01
+2022,07,C - Manufacture of Medical Devices,25,2022-07-01
+2022,07,D - Electricity & Gas & Air Conditioning Supply,21,2022-07-01
+2022,07,E - Water Supply - Sewerage Waste Management & Rem,2,2022-07-01
+2022,07,F - Construction,132,2022-07-01
+2022,07,G - Wholesale & Retail Trade,26,2022-07-01
+2022,07,H - Transport & Storage,24,2022-07-01
+2022,07,I - Accommodation & Food Services activities,219,2022-07-01
+2022,07,J - Information & Communication Activities,1236,2022-07-01
+2022,07,K - Financial & insurance Activities,300,2022-07-01
+2022,07,L - Real Estate Activities,2,2022-07-01
+2022,07,"M - All other Professional, Scientific & Technical",122,2022-07-01
+2022,07,"M - Professional, Scientific&Technical Activities",42,2022-07-01
+2022,07,N - Administrative & Support Service Activities,8,2022-07-01
+2022,07,O - Public Administration & Defence,3,2022-07-01
+2022,07,P - Education,15,2022-07-01
+2022,07,Q - Health & Social Work Activities,1100,2022-07-01
+2022,07,"R - Arts , Entertainment and Recreation",46,2022-07-01
+2022,07,S - Other Service activities,140,2022-07-01
+2022,07,T - Domestic- Activities of Households as Employer,0,2022-07-01
+2022,08,"A - Agriculture, Forestry & Fishing",140,2022-08-01
+2022,08,B - Mining & Quarrying,1,2022-08-01
+2022,08,C - All Other Manufacturing,55,2022-08-01
+2022,08,C - Manufacture of Chemicals & Pharmaceuticals,69,2022-08-01
+2022,08,"C - Manufacture of Computers, Electronics & Optica",40,2022-08-01
+2022,08,"C - Manufacture of Food, Drink & Tobacco",18,2022-08-01
+2022,08,C - Manufacture of Medical Devices,35,2022-08-01
+2022,08,D - Electricity & Gas & Air Conditioning Supply,30,2022-08-01
+2022,08,E - Water Supply - Sewerage Waste Management & Rem,3,2022-08-01
+2022,08,F - Construction,110,2022-08-01
+2022,08,G - Wholesale & Retail Trade,33,2022-08-01
+2022,08,H - Transport & Storage,46,2022-08-01
+2022,08,I - Accommodation & Food Services activities,274,2022-08-01
+2022,08,J - Information & Communication Activities,1040,2022-08-01
+2022,08,K - Financial & insurance Activities,375,2022-08-01
+2022,08,L - Real Estate Activities,1,2022-08-01
+2022,08,"M - All other Professional, Scientific & Technical",76,2022-08-01
+2022,08,"M - Professional, Scientific&Technical Activities",40,2022-08-01
+2022,08,N - Administrative & Support Service Activities,12,2022-08-01
+2022,08,O - Public Administration & Defence,4,2022-08-01
+2022,08,P - Education,23,2022-08-01
+2022,08,Q - Health & Social Work Activities,930,2022-08-01
+2022,08,"R - Arts , Entertainment and Recreation",52,2022-08-01
+2022,08,S - Other Service activities,129,2022-08-01
+2022,08,T - Domestic- Activities of Households as Employer,0,2022-08-01
+2022,09,"A - Agriculture, Forestry & Fishing",121,2022-09-01
+2022,09,B - Mining & Quarrying,0,2022-09-01
+2022,09,C - All Other Manufacturing,67,2022-09-01
+2022,09,C - Manufacture of Chemicals & Pharmaceuticals,66,2022-09-01
+2022,09,"C - Manufacture of Computers, Electronics & Optica",45,2022-09-01
+2022,09,"C - Manufacture of Food, Drink & Tobacco",26,2022-09-01
+2022,09,C - Manufacture of Medical Devices,37,2022-09-01
+2022,09,D - Electricity & Gas & Air Conditioning Supply,21,2022-09-01
+2022,09,E - Water Supply - Sewerage Waste Management & Rem,2,2022-09-01
+2022,09,F - Construction,106,2022-09-01
+2022,09,G - Wholesale & Retail Trade,25,2022-09-01
+2022,09,H - Transport & Storage,47,2022-09-01
+2022,09,I - Accommodation & Food Services activities,228,2022-09-01
+2022,09,J - Information & Communication Activities,1090,2022-09-01
+2022,09,K - Financial & insurance Activities,420,2022-09-01
+2022,09,L - Real Estate Activities,5,2022-09-01
+2022,09,"M - All other Professional, Scientific & Technical",96,2022-09-01
+2022,09,"M - Professional, Scientific&Technical Activities",39,2022-09-01
+2022,09,N - Administrative & Support Service Activities,4,2022-09-01
+2022,09,O - Public Administration & Defence,2,2022-09-01
+2022,09,P - Education,19,2022-09-01
+2022,09,Q - Health & Social Work Activities,750,2022-09-01
+2022,09,"R - Arts , Entertainment and Recreation",21,2022-09-01
+2022,09,S - Other Service activities,186,2022-09-01
+2022,09,T - Domestic- Activities of Households as Employer,0,2022-09-01
+2022,10,"A - Agriculture, Forestry & Fishing",96,2022-10-01
+2022,10,B - Mining & Quarrying,2,2022-10-01
+2022,10,C - All Other Manufacturing,51,2022-10-01
+2022,10,C - Manufacture of Chemicals & Pharmaceuticals,69,2022-10-01
+2022,10,"C - Manufacture of Computers, Electronics & Optica",43,2022-10-01
+2022,10,"C - Manufacture of Food, Drink & Tobacco",17,2022-10-01
+2022,10,C - Manufacture of Medical Devices,24,2022-10-01
+2022,10,D - Electricity & Gas & Air Conditioning Supply,18,2022-10-01
+2022,10,E - Water Supply - Sewerage Waste Management & Rem,4,2022-10-01
+2022,10,F - Construction,162,2022-10-01
+2022,10,G - Wholesale & Retail Trade,34,2022-10-01
+2022,10,H - Transport & Storage,89,2022-10-01
+2022,10,I - Accommodation & Food Services activities,223,2022-10-01
+2022,10,J - Information & Communication Activities,810,2022-10-01
+2022,10,K - Financial & insurance Activities,332,2022-10-01
+2022,10,L - Real Estate Activities,3,2022-10-01
+2022,10,"M - All other Professional, Scientific & Technical",113,2022-10-01
+2022,10,"M - Professional, Scientific&Technical Activities",20,2022-10-01
+2022,10,N - Administrative & Support Service Activities,5,2022-10-01
+2022,10,O - Public Administration & Defence,4,2022-10-01
+2022,10,P - Education,20,2022-10-01
+2022,10,Q - Health & Social Work Activities,723,2022-10-01
+2022,10,"R - Arts , Entertainment and Recreation",49,2022-10-01
+2022,10,S - Other Service activities,152,2022-10-01
+2022,10,T - Domestic- Activities of Households as Employer,1,2022-10-01
+2022,11,"A - Agriculture, Forestry & Fishing",78,2022-11-01
+2022,11,B - Mining & Quarrying,2,2022-11-01
+2022,11,C - All Other Manufacturing,90,2022-11-01
+2022,11,C - Manufacture of Chemicals & Pharmaceuticals,88,2022-11-01
+2022,11,"C - Manufacture of Computers, Electronics & Optica",49,2022-11-01
+2022,11,"C - Manufacture of Food, Drink & Tobacco",25,2022-11-01
+2022,11,C - Manufacture of Medical Devices,25,2022-11-01
+2022,11,D - Electricity & Gas & Air Conditioning Supply,25,2022-11-01
+2022,11,E - Water Supply - Sewerage Waste Management & Rem,3,2022-11-01
+2022,11,F - Construction,129,2022-11-01
+2022,11,G - Wholesale & Retail Trade,33,2022-11-01
+2022,11,H - Transport & Storage,45,2022-11-01
+2022,11,I - Accommodation & Food Services activities,313,2022-11-01
+2022,11,J - Information & Communication Activities,853,2022-11-01
+2022,11,K - Financial & insurance Activities,340,2022-11-01
+2022,11,L - Real Estate Activities,1,2022-11-01
+2022,11,"M - All other Professional, Scientific & Technical",168,2022-11-01
+2022,11,"M - Professional, Scientific&Technical Activities",33,2022-11-01
+2022,11,N - Administrative & Support Service Activities,12,2022-11-01
+2022,11,O - Public Administration & Defence,4,2022-11-01
+2022,11,P - Education,26,2022-11-01
+2022,11,Q - Health & Social Work Activities,1049,2022-11-01
+2022,11,"R - Arts , Entertainment and Recreation",28,2022-11-01
+2022,11,S - Other Service activities,180,2022-11-01
+2022,11,T - Domestic- Activities of Households as Employer,0,2022-11-01
+2022,12,"A - Agriculture, Forestry & Fishing",98,2022-12-01
+2022,12,B - Mining & Quarrying,1,2022-12-01
+2022,12,C - All Other Manufacturing,81,2022-12-01
+2022,12,C - Manufacture of Chemicals & Pharmaceuticals,52,2022-12-01
+2022,12,"C - Manufacture of Computers, Electronics & Optica",34,2022-12-01
+2022,12,"C - Manufacture of Food, Drink & Tobacco",3,2022-12-01
+2022,12,C - Manufacture of Medical Devices,19,2022-12-01
+2022,12,D - Electricity & Gas & Air Conditioning Supply,14,2022-12-01
+2022,12,E - Water Supply - Sewerage Waste Management & Rem,2,2022-12-01
+2022,12,F - Construction,94,2022-12-01
+2022,12,G - Wholesale & Retail Trade,26,2022-12-01
+2022,12,H - Transport & Storage,32,2022-12-01
+2022,12,I - Accommodation & Food Services activities,198,2022-12-01
+2022,12,J - Information & Communication Activities,470,2022-12-01
+2022,12,K - Financial & insurance Activities,174,2022-12-01
+2022,12,L - Real Estate Activities,1,2022-12-01
+2022,12,"M - All other Professional, Scientific & Technical",112,2022-12-01
+2022,12,"M - Professional, Scientific&Technical Activities",17,2022-12-01
+2022,12,N - Administrative & Support Service Activities,4,2022-12-01
+2022,12,O - Public Administration & Defence,1,2022-12-01
+2022,12,P - Education,15,2022-12-01
+2022,12,Q - Health & Social Work Activities,661,2022-12-01
+2022,12,"R - Arts , Entertainment and Recreation",20,2022-12-01
+2022,12,S - Other Service activities,88,2022-12-01
+2022,12,T - Domestic- Activities of Households as Employer,0,2022-12-01
+2023,01,"A - Agriculture, Forestry & Fishing",87,2023-01-01
+2023,01,B - Mining & Quarrying,1,2023-01-01
+2023,01,C - All Other Manufacturing,73,2023-01-01
+2023,01,C - Manufacture of Chemicals & Pharmaceuticals,62,2023-01-01
+2023,01,"C - Manufacture of Computers, Electronics & Optica",36,2023-01-01
+2023,01,"C - Manufacture of Food, Drink & Tobacco",23,2023-01-01
+2023,01,C - Manufacture of Medical Devices,28,2023-01-01
+2023,01,D - Electricity & Gas & Air Conditioning Supply,20,2023-01-01
+2023,01,E - Water Supply - Sewerage Waste Management & Rem,1,2023-01-01
+2023,01,F - Construction,102,2023-01-01
+2023,01,G - Wholesale & Retail Trade,17,2023-01-01
+2023,01,H - Transport & Storage,44,2023-01-01
+2023,01,I - Accommodation & Food Services activities,213,2023-01-01
+2023,01,J - Information & Communication Activities,427,2023-01-01
+2023,01,K - Financial & insurance Activities,190,2023-01-01
+2023,01,L - Real Estate Activities,2,2023-01-01
+2023,01,"M - All other Professional, Scientific & Technical",118,2023-01-01
+2023,01,"M - Professional, Scientific&Technical Activities",22,2023-01-01
+2023,01,N - Administrative & Support Service Activities,7,2023-01-01
+2023,01,O - Public Administration & Defence,2,2023-01-01
+2023,01,P - Education,14,2023-01-01
+2023,01,Q - Health & Social Work Activities,912,2023-01-01
+2023,01,"R - Arts , Entertainment and Recreation",25,2023-01-01
+2023,01,S - Other Service activities,101,2023-01-01
+2023,01,T - Domestic- Activities of Households as Employer,0,2023-01-01
+2023,02,"A - Agriculture, Forestry & Fishing",83,2023-02-01
+2023,02,B - Mining & Quarrying,0,2023-02-01
+2023,02,C - All Other Manufacturing,45,2023-02-01
+2023,02,C - Manufacture of Chemicals & Pharmaceuticals,47,2023-02-01
+2023,02,"C - Manufacture of Computers, Electronics & Optica",42,2023-02-01
+2023,02,"C - Manufacture of Food, Drink & Tobacco",30,2023-02-01
+2023,02,C - Manufacture of Medical Devices,11,2023-02-01
+2023,02,D - Electricity & Gas & Air Conditioning Supply,13,2023-02-01
+2023,02,E - Water Supply - Sewerage Waste Management & Rem,2,2023-02-01
+2023,02,F - Construction,99,2023-02-01
+2023,02,G - Wholesale & Retail Trade,19,2023-02-01
+2023,02,H - Transport & Storage,70,2023-02-01
+2023,02,I - Accommodation & Food Services activities,185,2023-02-01
+2023,02,J - Information & Communication Activities,359,2023-02-01
+2023,02,K - Financial & insurance Activities,165,2023-02-01
+2023,02,L - Real Estate Activities,1,2023-02-01
+2023,02,"M - All other Professional, Scientific & Technical",62,2023-02-01
+2023,02,"M - Professional, Scientific&Technical Activities",19,2023-02-01
+2023,02,N - Administrative & Support Service Activities,7,2023-02-01
+2023,02,O - Public Administration & Defence,1,2023-02-01
+2023,02,P - Education,10,2023-02-01
+2023,02,Q - Health & Social Work Activities,791,2023-02-01
+2023,02,"R - Arts , Entertainment and Recreation",24,2023-02-01
+2023,02,S - Other Service activities,107,2023-02-01
+2023,02,T - Domestic- Activities of Households as Employer,0,2023-02-01
+2023,03,"A - Agriculture, Forestry & Fishing",469,2023-03-01
+2023,03,B - Mining & Quarrying,0,2023-03-01
+2023,03,C - All Other Manufacturing,58,2023-03-01
+2023,03,C - Manufacture of Chemicals & Pharmaceuticals,41,2023-03-01
+2023,03,"C - Manufacture of Computers, Electronics & Optica",51,2023-03-01
+2023,03,"C - Manufacture of Food, Drink & Tobacco",19,2023-03-01
+2023,03,C - Manufacture of Medical Devices,17,2023-03-01
+2023,03,D - Electricity & Gas & Air Conditioning Supply,27,2023-03-01
+2023,03,E - Water Supply - Sewerage Waste Management & Rem,9,2023-03-01
+2023,03,F - Construction,124,2023-03-01
+2023,03,G - Wholesale & Retail Trade,14,2023-03-01
+2023,03,H - Transport & Storage,50,2023-03-01
+2023,03,I - Accommodation & Food Services activities,156,2023-03-01
+2023,03,J - Information & Communication Activities,308,2023-03-01
+2023,03,K - Financial & insurance Activities,179,2023-03-01
+2023,03,L - Real Estate Activities,2,2023-03-01
+2023,03,"M - All other Professional, Scientific & Technical",80,2023-03-01
+2023,03,"M - Professional, Scientific&Technical Activities",17,2023-03-01
+2023,03,N - Administrative & Support Service Activities,10,2023-03-01
+2023,03,O - Public Administration & Defence,1,2023-03-01
+2023,03,P - Education,13,2023-03-01
+2023,03,Q - Health & Social Work Activities,726,2023-03-01
+2023,03,"R - Arts , Entertainment and Recreation",47,2023-03-01
+2023,03,S - Other Service activities,128,2023-03-01
+2023,03,T - Domestic- Activities of Households as Employer,0,2023-03-01
+2023,04,"A - Agriculture, Forestry & Fishing",253,2023-04-01
+2023,04,B - Mining & Quarrying,8,2023-04-01
+2023,04,C - All Other Manufacturing,44,2023-04-01
+2023,04,C - Manufacture of Chemicals & Pharmaceuticals,60,2023-04-01
+2023,04,"C - Manufacture of Computers, Electronics & Optica",62,2023-04-01
+2023,04,"C - Manufacture of Food, Drink & Tobacco",20,2023-04-01
+2023,04,C - Manufacture of Medical Devices,19,2023-04-01
+2023,04,D - Electricity & Gas & Air Conditioning Supply,15,2023-04-01
+2023,04,E - Water Supply - Sewerage Waste Management & Rem,3,2023-04-01
+2023,04,F - Construction,89,2023-04-01
+2023,04,G - Wholesale & Retail Trade,23,2023-04-01
+2023,04,H - Transport & Storage,90,2023-04-01
+2023,04,I - Accommodation & Food Services activities,179,2023-04-01
+2023,04,J - Information & Communication Activities,306,2023-04-01
+2023,04,K - Financial & insurance Activities,130,2023-04-01
+2023,04,L - Real Estate Activities,0,2023-04-01
+2023,04,"M - All other Professional, Scientific & Technical",60,2023-04-01
+2023,04,"M - Professional, Scientific&Technical Activities",16,2023-04-01
+2023,04,N - Administrative & Support Service Activities,3,2023-04-01
+2023,04,O - Public Administration & Defence,0,2023-04-01
+2023,04,P - Education,10,2023-04-01
+2023,04,Q - Health & Social Work Activities,649,2023-04-01
+2023,04,"R - Arts , Entertainment and Recreation",26,2023-04-01
+2023,04,S - Other Service activities,114,2023-04-01
+2023,04,T - Domestic- Activities of Households as Employer,0,2023-04-01
+2023,05,"A - Agriculture, Forestry & Fishing",91,2023-05-01
+2023,05,B - Mining & Quarrying,0,2023-05-01
+2023,05,C - All Other Manufacturing,78,2023-05-01
+2023,05,C - Manufacture of Chemicals & Pharmaceuticals,90,2023-05-01
+2023,05,"C - Manufacture of Computers, Electronics & Optica",86,2023-05-01
+2023,05,"C - Manufacture of Food, Drink & Tobacco",23,2023-05-01
+2023,05,C - Manufacture of Medical Devices,15,2023-05-01
+2023,05,D - Electricity & Gas & Air Conditioning Supply,35,2023-05-01
+2023,05,E - Water Supply - Sewerage Waste Management & Rem,9,2023-05-01
+2023,05,F - Construction,136,2023-05-01
+2023,05,G - Wholesale & Retail Trade,30,2023-05-01
+2023,05,H - Transport & Storage,54,2023-05-01
+2023,05,I - Accommodation & Food Services activities,261,2023-05-01
+2023,05,J - Information & Communication Activities,360,2023-05-01
+2023,05,K - Financial & insurance Activities,197,2023-05-01
+2023,05,L - Real Estate Activities,1,2023-05-01
+2023,05,"M - All other Professional, Scientific & Technical",73,2023-05-01
+2023,05,"M - Professional, Scientific&Technical Activities",27,2023-05-01
+2023,05,N - Administrative & Support Service Activities,5,2023-05-01
+2023,05,O - Public Administration & Defence,0,2023-05-01
+2023,05,P - Education,20,2023-05-01
+2023,05,Q - Health & Social Work Activities,1012,2023-05-01
+2023,05,"R - Arts , Entertainment and Recreation",29,2023-05-01
+2023,05,S - Other Service activities,126,2023-05-01
+2023,05,T - Domestic- Activities of Households as Employer,0,2023-05-01
+2023,06,"A - Agriculture, Forestry & Fishing",56,2023-06-01
+2023,06,B - Mining & Quarrying,4,2023-06-01
+2023,06,C - All Other Manufacturing,78,2023-06-01
+2023,06,C - Manufacture of Chemicals & Pharmaceuticals,81,2023-06-01
+2023,06,"C - Manufacture of Computers, Electronics & Optica",137,2023-06-01
+2023,06,"C - Manufacture of Food, Drink & Tobacco",29,2023-06-01
+2023,06,C - Manufacture of Medical Devices,22,2023-06-01
+2023,06,D - Electricity & Gas & Air Conditioning Supply,46,2023-06-01
+2023,06,E - Water Supply - Sewerage Waste Management & Rem,2,2023-06-01
+2023,06,F - Construction,129,2023-06-01
+2023,06,G - Wholesale & Retail Trade,38,2023-06-01
+2023,06,H - Transport & Storage,83,2023-06-01
+2023,06,I - Accommodation & Food Services activities,271,2023-06-01
+2023,06,J - Information & Communication Activities,521,2023-06-01
+2023,06,K - Financial & insurance Activities,252,2023-06-01
+2023,06,L - Real Estate Activities,1,2023-06-01
+2023,06,"M - All other Professional, Scientific & Technical",118,2023-06-01
+2023,06,"M - Professional, Scientific&Technical Activities",15,2023-06-01
+2023,06,N - Administrative & Support Service Activities,7,2023-06-01
+2023,06,O - Public Administration & Defence,3,2023-06-01
+2023,06,P - Education,23,2023-06-01
+2023,06,Q - Health & Social Work Activities,1040,2023-06-01
+2023,06,"R - Arts , Entertainment and Recreation",41,2023-06-01
+2023,06,S - Other Service activities,140,2023-06-01
+2023,06,T - Domestic- Activities of Households as Employer,1,2023-06-01
+2023,07,"A - Agriculture, Forestry & Fishing",62,2023-07-01
+2023,07,B - Mining & Quarrying,2,2023-07-01
+2023,07,C - All Other Manufacturing,77,2023-07-01
+2023,07,C - Manufacture of Chemicals & Pharmaceuticals,82,2023-07-01
+2023,07,"C - Manufacture of Computers, Electronics & Optica",158,2023-07-01
+2023,07,"C - Manufacture of Food, Drink & Tobacco",29,2023-07-01
+2023,07,C - Manufacture of Medical Devices,17,2023-07-01
+2023,07,D - Electricity & Gas & Air Conditioning Supply,56,2023-07-01
+2023,07,E - Water Supply - Sewerage Waste Management & Rem,21,2023-07-01
+2023,07,F - Construction,110,2023-07-01
+2023,07,G - Wholesale & Retail Trade,25,2023-07-01
+2023,07,H - Transport & Storage,70,2023-07-01
+2023,07,I - Accommodation & Food Services activities,238,2023-07-01
+2023,07,J - Information & Communication Activities,487,2023-07-01
+2023,07,K - Financial & insurance Activities,224,2023-07-01
+2023,07,L - Real Estate Activities,1,2023-07-01
+2023,07,"M - All other Professional, Scientific & Technical",103,2023-07-01
+2023,07,"M - Professional, Scientific&Technical Activities",19,2023-07-01
+2023,07,N - Administrative & Support Service Activities,5,2023-07-01
+2023,07,O - Public Administration & Defence,2,2023-07-01
+2023,07,P - Education,28,2023-07-01
+2023,07,Q - Health & Social Work Activities,1064,2023-07-01
+2023,07,"R - Arts , Entertainment and Recreation",18,2023-07-01
+2023,07,S - Other Service activities,133,2023-07-01
+2023,07,T - Domestic- Activities of Households as Employer,0,2023-07-01
+2023,08,"A - Agriculture, Forestry & Fishing",56,2023-08-01
+2023,08,B - Mining & Quarrying,3,2023-08-01
+2023,08,C - All Other Manufacturing,50,2023-08-01
+2023,08,C - Manufacture of Chemicals & Pharmaceuticals,91,2023-08-01
+2023,08,"C - Manufacture of Computers, Electronics & Optica",55,2023-08-01
+2023,08,"C - Manufacture of Food, Drink & Tobacco",26,2023-08-01
+2023,08,C - Manufacture of Medical Devices,25,2023-08-01
+2023,08,D - Electricity & Gas & Air Conditioning Supply,45,2023-08-01
+2023,08,E - Water Supply - Sewerage Waste Management & Rem,13,2023-08-01
+2023,08,F - Construction,111,2023-08-01
+2023,08,G - Wholesale & Retail Trade,13,2023-08-01
+2023,08,H - Transport & Storage,87,2023-08-01
+2023,08,I - Accommodation & Food Services activities,229,2023-08-01
+2023,08,J - Information & Communication Activities,434,2023-08-01
+2023,08,K - Financial & insurance Activities,225,2023-08-01
+2023,08,L - Real Estate Activities,1,2023-08-01
+2023,08,"M - All other Professional, Scientific & Technical",83,2023-08-01
+2023,08,"M - Professional, Scientific&Technical Activities",16,2023-08-01
+2023,08,N - Administrative & Support Service Activities,13,2023-08-01
+2023,08,O - Public Administration & Defence,5,2023-08-01
+2023,08,P - Education,24,2023-08-01
+2023,08,Q - Health & Social Work Activities,635,2023-08-01
+2023,08,"R - Arts , Entertainment and Recreation",19,2023-08-01
+2023,08,S - Other Service activities,152,2023-08-01
+2023,08,T - Domestic- Activities of Households as Employer,0,2023-08-01
+2023,09,"A - Agriculture, Forestry & Fishing",42,2023-09-01
+2023,09,B - Mining & Quarrying,1,2023-09-01
+2023,09,C - All Other Manufacturing,56,2023-09-01
+2023,09,C - Manufacture of Chemicals & Pharmaceuticals,54,2023-09-01
+2023,09,"C - Manufacture of Computers, Electronics & Optica",58,2023-09-01
+2023,09,"C - Manufacture of Food, Drink & Tobacco",16,2023-09-01
+2023,09,C - Manufacture of Medical Devices,37,2023-09-01
+2023,09,D - Electricity & Gas & Air Conditioning Supply,32,2023-09-01
+2023,09,E - Water Supply - Sewerage Waste Management & Rem,10,2023-09-01
+2023,09,F - Construction,93,2023-09-01
+2023,09,G - Wholesale & Retail Trade,24,2023-09-01
+2023,09,H - Transport & Storage,113,2023-09-01
+2023,09,I - Accommodation & Food Services activities,215,2023-09-01
+2023,09,J - Information & Communication Activities,386,2023-09-01
+2023,09,K - Financial & insurance Activities,219,2023-09-01
+2023,09,L - Real Estate Activities,1,2023-09-01
+2023,09,"M - All other Professional, Scientific & Technical",61,2023-09-01
+2023,09,"M - Professional, Scientific&Technical Activities",36,2023-09-01
+2023,09,N - Administrative & Support Service Activities,8,2023-09-01
+2023,09,O - Public Administration & Defence,0,2023-09-01
+2023,09,P - Education,28,2023-09-01
+2023,09,Q - Health & Social Work Activities,558,2023-09-01
+2023,09,"R - Arts , Entertainment and Recreation",30,2023-09-01
+2023,09,S - Other Service activities,125,2023-09-01
+2023,09,T - Domestic- Activities of Households as Employer,0,2023-09-01
+2023,10,"A - Agriculture, Forestry & Fishing",43,2023-10-01
+2023,10,B - Mining & Quarrying,7,2023-10-01
+2023,10,C - All Other Manufacturing,57,2023-10-01
+2023,10,C - Manufacture of Chemicals & Pharmaceuticals,96,2023-10-01
+2023,10,"C - Manufacture of Computers, Electronics & Optica",45,2023-10-01
+2023,10,"C - Manufacture of Food, Drink & Tobacco",22,2023-10-01
+2023,10,C - Manufacture of Medical Devices,33,2023-10-01
+2023,10,D - Electricity & Gas & Air Conditioning Supply,34,2023-10-01
+2023,10,E - Water Supply - Sewerage Waste Management & Rem,4,2023-10-01
+2023,10,F - Construction,143,2023-10-01
+2023,10,G - Wholesale & Retail Trade,33,2023-10-01
+2023,10,H - Transport & Storage,70,2023-10-01
+2023,10,I - Accommodation & Food Services activities,236,2023-10-01
+2023,10,J - Information & Communication Activities,448,2023-10-01
+2023,10,K - Financial & insurance Activities,202,2023-10-01
+2023,10,L - Real Estate Activities,0,2023-10-01
+2023,10,"M - All other Professional, Scientific & Technical",92,2023-10-01
+2023,10,"M - Professional, Scientific&Technical Activities",36,2023-10-01
+2023,10,N - Administrative & Support Service Activities,8,2023-10-01
+2023,10,O - Public Administration & Defence,1,2023-10-01
+2023,10,P - Education,29,2023-10-01
+2023,10,Q - Health & Social Work Activities,754,2023-10-01
+2023,10,"R - Arts , Entertainment and Recreation",39,2023-10-01
+2023,10,S - Other Service activities,112,2023-10-01
+2023,10,T - Domestic- Activities of Households as Employer,0,2023-10-01
+2023,11,"A - Agriculture, Forestry & Fishing",66,2023-11-01
+2023,11,B - Mining & Quarrying,1,2023-11-01
+2023,11,C - All Other Manufacturing,91,2023-11-01
+2023,11,C - Manufacture of Chemicals & Pharmaceuticals,120,2023-11-01
+2023,11,"C - Manufacture of Computers, Electronics & Optica",64,2023-11-01
+2023,11,"C - Manufacture of Food, Drink & Tobacco",13,2023-11-01
+2023,11,C - Manufacture of Medical Devices,23,2023-11-01
+2023,11,D - Electricity & Gas & Air Conditioning Supply,30,2023-11-01
+2023,11,E - Water Supply - Sewerage Waste Management & Rem,9,2023-11-01
+2023,11,F - Construction,114,2023-11-01
+2023,11,G - Wholesale & Retail Trade,38,2023-11-01
+2023,11,H - Transport & Storage,126,2023-11-01
+2023,11,I - Accommodation & Food Services activities,260,2023-11-01
+2023,11,J - Information & Communication Activities,456,2023-11-01
+2023,11,K - Financial & insurance Activities,233,2023-11-01
+2023,11,L - Real Estate Activities,4,2023-11-01
+2023,11,"M - All other Professional, Scientific & Technical",94,2023-11-01
+2023,11,"M - Professional, Scientific&Technical Activities",32,2023-11-01
+2023,11,N - Administrative & Support Service Activities,3,2023-11-01
+2023,11,O - Public Administration & Defence,0,2023-11-01
+2023,11,P - Education,31,2023-11-01
+2023,11,Q - Health & Social Work Activities,1009,2023-11-01
+2023,11,"R - Arts , Entertainment and Recreation",24,2023-11-01
+2023,11,S - Other Service activities,164,2023-11-01
+2023,11,T - Domestic- Activities of Households as Employer,0,2023-11-01
+2023,12,"A - Agriculture, Forestry & Fishing",77,2023-12-01
+2023,12,B - Mining & Quarrying,3,2023-12-01
+2023,12,C - All Other Manufacturing,59,2023-12-01
+2023,12,C - Manufacture of Chemicals & Pharmaceuticals,53,2023-12-01
+2023,12,"C - Manufacture of Computers, Electronics & Optica",51,2023-12-01
+2023,12,"C - Manufacture of Food, Drink & Tobacco",18,2023-12-01
+2023,12,C - Manufacture of Medical Devices,34,2023-12-01
+2023,12,D - Electricity & Gas & Air Conditioning Supply,18,2023-12-01
+2023,12,E - Water Supply - Sewerage Waste Management & Rem,4,2023-12-01
+2023,12,F - Construction,99,2023-12-01
+2023,12,G - Wholesale & Retail Trade,20,2023-12-01
+2023,12,H - Transport & Storage,50,2023-12-01
+2023,12,I - Accommodation & Food Services activities,163,2023-12-01
+2023,12,J - Information & Communication Activities,517,2023-12-01
+2023,12,K - Financial & insurance Activities,157,2023-12-01
+2023,12,L - Real Estate Activities,0,2023-12-01
+2023,12,"M - All other Professional, Scientific & Technical",66,2023-12-01
+2023,12,"M - Professional, Scientific&Technical Activities",28,2023-12-01
+2023,12,N - Administrative & Support Service Activities,4,2023-12-01
+2023,12,O - Public Administration & Defence,0,2023-12-01
+2023,12,P - Education,16,2023-12-01
+2023,12,Q - Health & Social Work Activities,887,2023-12-01
+2023,12,"R - Arts , Entertainment and Recreation",14,2023-12-01
+2023,12,S - Other Service activities,109,2023-12-01
+2023,12,T - Domestic- Activities of Households as Employer,0,2023-12-01
+2024,01,"A - Agriculture, Forestry & Fishing",252,2024-01-01
+2024,01,B - Mining & Quarrying,2,2024-01-01
+2024,01,C - All Other Manufacturing,58,2024-01-01
+2024,01,C - Manufacture of Chemicals & Pharmaceuticals,69,2024-01-01
+2024,01,"C - Manufacture of Computers, Electronics & Optica",47,2024-01-01
+2024,01,"C - Manufacture of Food, Drink & Tobacco",41,2024-01-01
+2024,01,C - Manufacture of Medical Devices,36,2024-01-01
+2024,01,D - Electricity & Gas & Air Conditioning Supply,41,2024-01-01
+2024,01,E - Water Supply - Sewerage Waste Management & Rem,10,2024-01-01
+2024,01,E - Water Supply Waste Management & Remedial Activ,0,2024-01-01
+2024,01,F - Construction,96,2024-01-01
+2024,01,G - Wholesale & Retail Trade,33,2024-01-01
+2024,01,H - Transport & Storage,78,2024-01-01
+2024,01,I - Accommodation & Food Services activities,226,2024-01-01
+2024,01,J - Information & Communication Activities,592,2024-01-01
+2024,01,K - Financial & insurance Activities,162,2024-01-01
+2024,01,L - Real Estate Activities,4,2024-01-01
+2024,01,"M - All other Professional, Scientific & Technical",73,2024-01-01
+2024,01,"M - Professional, Scientific&Technical Activities",13,2024-01-01
+2024,01,N - Administrative & Support Service Activities,5,2024-01-01
+2024,01,O - Public Administration & Defence,1,2024-01-01
+2024,01,P - Education,22,2024-01-01
+2024,01,Q - Health & Social Work Activities,1431,2024-01-01
+2024,01,"R - Arts , Entertainment and Recreation",18,2024-01-01
+2024,01,S - Other Service activities,113,2024-01-01
+2024,01,T - Domestic- Activities of Households as Employer,0,2024-01-01
+2024,02,"A - Agriculture, Forestry & Fishing",591,2024-02-01
+2024,02,B - Mining & Quarrying,2,2024-02-01
+2024,02,C - All Other Manufacturing,107,2024-02-01
+2024,02,C - Manufacture of Chemicals & Pharmaceuticals,56,2024-02-01
+2024,02,"C - Manufacture of Computers, Electronics & Optica",50,2024-02-01
+2024,02,"C - Manufacture of Food, Drink & Tobacco",47,2024-02-01
+2024,02,C - Manufacture of Medical Devices,23,2024-02-01
+2024,02,D - Electricity & Gas & Air Conditioning Supply,34,2024-02-01
+2024,02,E - Water Supply - Sewerage Waste Management & Rem,13,2024-02-01
+2024,02,E - Water Supply Waste Management & Remedial Activ,0,2024-02-01
+2024,02,F - Construction,87,2024-02-01
+2024,02,G - Wholesale & Retail Trade,43,2024-02-01
+2024,02,H - Transport & Storage,68,2024-02-01
+2024,02,I - Accommodation & Food Services activities,279,2024-02-01
+2024,02,J - Information & Communication Activities,511,2024-02-01
+2024,02,K - Financial & insurance Activities,149,2024-02-01
+2024,02,L - Real Estate Activities,2,2024-02-01
+2024,02,"M - All other Professional, Scientific & Technical",76,2024-02-01
+2024,02,"M - Professional, Scientific&Technical Activities",17,2024-02-01
+2024,02,N - Administrative & Support Service Activities,10,2024-02-01
+2024,02,O - Public Administration & Defence,2,2024-02-01
+2024,02,P - Education,38,2024-02-01
+2024,02,Q - Health & Social Work Activities,1089,2024-02-01
+2024,02,"R - Arts , Entertainment and Recreation",44,2024-02-01
+2024,02,S - Other Service activities,115,2024-02-01
+2024,02,T - Domestic- Activities of Households as Employer,0,2024-02-01
+2024,03,"A - Agriculture, Forestry & Fishing",158,2024-03-01
+2024,03,B - Mining & Quarrying,4,2024-03-01
+2024,03,C - All Other Manufacturing,49,2024-03-01
+2024,03,C - Manufacture of Chemicals & Pharmaceuticals,60,2024-03-01
+2024,03,"C - Manufacture of Computers, Electronics & Optica",24,2024-03-01
+2024,03,"C - Manufacture of Food, Drink & Tobacco",27,2024-03-01
+2024,03,C - Manufacture of Medical Devices,11,2024-03-01
+2024,03,D - Electricity & Gas & Air Conditioning Supply,35,2024-03-01
+2024,03,E - Water Supply - Sewerage Waste Management & Rem,9,2024-03-01
+2024,03,E - Water Supply Waste Management & Remedial Activ,0,2024-03-01
+2024,03,F - Construction,79,2024-03-01
+2024,03,G - Wholesale & Retail Trade,19,2024-03-01
+2024,03,H - Transport & Storage,38,2024-03-01
+2024,03,I - Accommodation & Food Services activities,131,2024-03-01
+2024,03,J - Information & Communication Activities,601,2024-03-01
+2024,03,K - Financial & insurance Activities,235,2024-03-01
+2024,03,L - Real Estate Activities,3,2024-03-01
+2024,03,"M - All other Professional, Scientific & Technical",94,2024-03-01
+2024,03,"M - Professional, Scientific&Technical Activities",17,2024-03-01
+2024,03,N - Administrative & Support Service Activities,6,2024-03-01
+2024,03,O - Public Administration & Defence,3,2024-03-01
+2024,03,P - Education,17,2024-03-01
+2024,03,Q - Health & Social Work Activities,1211,2024-03-01
+2024,03,"R - Arts , Entertainment and Recreation",39,2024-03-01
+2024,03,S - Other Service activities,87,2024-03-01
+2024,03,T - Domestic- Activities of Households as Employer,2,2024-03-01
+2024,04,"A - Agriculture, Forestry & Fishing",205,2024-04-01
+2024,04,B - Mining & Quarrying,4,2024-04-01
+2024,04,C - All Other Manufacturing,96,2024-04-01
+2024,04,C - Manufacture of Chemicals & Pharmaceuticals,66,2024-04-01
+2024,04,"C - Manufacture of Computers, Electronics & Optica",78,2024-04-01
+2024,04,"C - Manufacture of Food, Drink & Tobacco",44,2024-04-01
+2024,04,C - Manufacture of Medical Devices,62,2024-04-01
+2024,04,D - Electricity & Gas & Air Conditioning Supply,53,2024-04-01
+2024,04,E - Water Supply - Sewerage Waste Management & Rem,1,2024-04-01
+2024,04,E - Water Supply Waste Management & Remedial Activ,0,2024-04-01
+2024,04,F - Construction,133,2024-04-01
+2024,04,G - Wholesale & Retail Trade,21,2024-04-01
+2024,04,H - Transport & Storage,108,2024-04-01
+2024,04,I - Accommodation & Food Services activities,291,2024-04-01
+2024,04,J - Information & Communication Activities,663,2024-04-01
+2024,04,K - Financial & insurance Activities,182,2024-04-01
+2024,04,L - Real Estate Activities,2,2024-04-01
+2024,04,"M - All other Professional, Scientific & Technical",75,2024-04-01
+2024,04,"M - Professional, Scientific&Technical Activities",16,2024-04-01
+2024,04,N - Administrative & Support Service Activities,8,2024-04-01
+2024,04,O - Public Administration & Defence,5,2024-04-01
+2024,04,P - Education,30,2024-04-01
+2024,04,Q - Health & Social Work Activities,1145,2024-04-01
+2024,04,"R - Arts , Entertainment and Recreation",79,2024-04-01
+2024,04,S - Other Service activities,140,2024-04-01
+2024,04,T - Domestic- Activities of Households as Employer,1,2024-04-01
+2024,05,"A - Agriculture, Forestry & Fishing",372,2024-05-01
+2024,05,B - Mining & Quarrying,3,2024-05-01
+2024,05,C - All Other Manufacturing,91,2024-05-01
+2024,05,C - Manufacture of Chemicals & Pharmaceuticals,56,2024-05-01
+2024,05,"C - Manufacture of Computers, Electronics & Optica",31,2024-05-01
+2024,05,"C - Manufacture of Food, Drink & Tobacco",16,2024-05-01
+2024,05,C - Manufacture of Medical Devices,14,2024-05-01
+2024,05,D - Electricity & Gas & Air Conditioning Supply,27,2024-05-01
+2024,05,E - Water Supply - Sewerage Waste Management & Rem,3,2024-05-01
+2024,05,E - Water Supply Waste Management & Remedial Activ,0,2024-05-01
+2024,05,F - Construction,148,2024-05-01
+2024,05,G - Wholesale & Retail Trade,41,2024-05-01
+2024,05,H - Transport & Storage,133,2024-05-01
+2024,05,I - Accommodation & Food Services activities,343,2024-05-01
+2024,05,J - Information & Communication Activities,374,2024-05-01
+2024,05,K - Financial & insurance Activities,140,2024-05-01
+2024,05,L - Real Estate Activities,1,2024-05-01
+2024,05,"M - All other Professional, Scientific & Technical",60,2024-05-01
+2024,05,"M - Professional, Scientific&Technical Activities",12,2024-05-01
+2024,05,N - Administrative & Support Service Activities,10,2024-05-01
+2024,05,O - Public Administration & Defence,0,2024-05-01
+2024,05,P - Education,20,2024-05-01
+2024,05,Q - Health & Social Work Activities,872,2024-05-01
+2024,05,"R - Arts , Entertainment and Recreation",51,2024-05-01
+2024,05,S - Other Service activities,117,2024-05-01
+2024,05,T - Domestic- Activities of Households as Employer,0,2024-05-01
+2024,06,"A - Agriculture, Forestry & Fishing",281,2024-06-01
+2024,06,B - Mining & Quarrying,4,2024-06-01
+2024,06,C - All Other Manufacturing,75,2024-06-01
+2024,06,C - Manufacture of Chemicals & Pharmaceuticals,56,2024-06-01
+2024,06,"C - Manufacture of Computers, Electronics & Optica",41,2024-06-01
+2024,06,"C - Manufacture of Food, Drink & Tobacco",23,2024-06-01
+2024,06,C - Manufacture of Medical Devices,19,2024-06-01
+2024,06,D - Electricity & Gas & Air Conditioning Supply,43,2024-06-01
+2024,06,E - Water Supply - Sewerage Waste Management & Rem,4,2024-06-01
+2024,06,E - Water Supply Waste Management & Remedial Activ,0,2024-06-01
+2024,06,F - Construction,120,2024-06-01
+2024,06,G - Wholesale & Retail Trade,58,2024-06-01
+2024,06,H - Transport & Storage,109,2024-06-01
+2024,06,I - Accommodation & Food Services activities,188,2024-06-01
+2024,06,J - Information & Communication Activities,541,2024-06-01
+2024,06,K - Financial & insurance Activities,167,2024-06-01
+2024,06,L - Real Estate Activities,2,2024-06-01
+2024,06,"M - All other Professional, Scientific & Technical",46,2024-06-01
+2024,06,"M - Professional, Scientific&Technical Activities",16,2024-06-01
+2024,06,N - Administrative & Support Service Activities,7,2024-06-01
+2024,06,O - Public Administration & Defence,0,2024-06-01
+2024,06,P - Education,22,2024-06-01
+2024,06,Q - Health & Social Work Activities,1056,2024-06-01
+2024,06,"R - Arts , Entertainment and Recreation",37,2024-06-01
+2024,06,S - Other Service activities,104,2024-06-01
+2024,06,T - Domestic- Activities of Households as Employer,0,2024-06-01
+2024,07,"A - Agriculture, Forestry & Fishing",402,2024-07-01
+2024,07,B - Mining & Quarrying,1,2024-07-01
+2024,07,C - All Other Manufacturing,117,2024-07-01
+2024,07,C - Manufacture of Chemicals & Pharmaceuticals,105,2024-07-01
+2024,07,"C - Manufacture of Computers, Electronics & Optica",80,2024-07-01
+2024,07,"C - Manufacture of Food, Drink & Tobacco",38,2024-07-01
+2024,07,C - Manufacture of Medical Devices,40,2024-07-01
+2024,07,D - Electricity & Gas & Air Conditioning Supply,33,2024-07-01
+2024,07,E - Water Supply - Sewerage Waste Management & Rem,13,2024-07-01
+2024,07,E - Water Supply Waste Management & Remedial Activ,1,2024-07-01
+2024,07,F - Construction,173,2024-07-01
+2024,07,G - Wholesale & Retail Trade,40,2024-07-01
+2024,07,H - Transport & Storage,143,2024-07-01
+2024,07,I - Accommodation & Food Services activities,395,2024-07-01
+2024,07,J - Information & Communication Activities,753,2024-07-01
+2024,07,K - Financial & insurance Activities,245,2024-07-01
+2024,07,L - Real Estate Activities,4,2024-07-01
+2024,07,"M - All other Professional, Scientific & Technical",74,2024-07-01
+2024,07,"M - Professional, Scientific&Technical Activities",31,2024-07-01
+2024,07,N - Administrative & Support Service Activities,7,2024-07-01
+2024,07,O - Public Administration & Defence,0,2024-07-01
+2024,07,P - Education,26,2024-07-01
+2024,07,Q - Health & Social Work Activities,1476,2024-07-01
+2024,07,"R - Arts , Entertainment and Recreation",85,2024-07-01
+2024,07,S - Other Service activities,237,2024-07-01
+2024,07,T - Domestic- Activities of Households as Employer,0,2024-07-01
+2024,08,"A - Agriculture, Forestry & Fishing",272,2024-08-01
+2024,08,B - Mining & Quarrying,4,2024-08-01
+2024,08,C - All Other Manufacturing,76,2024-08-01
+2024,08,C - Manufacture of Chemicals & Pharmaceuticals,81,2024-08-01
+2024,08,"C - Manufacture of Computers, Electronics & Optica",30,2024-08-01
+2024,08,"C - Manufacture of Food, Drink & Tobacco",28,2024-08-01
+2024,08,C - Manufacture of Medical Devices,13,2024-08-01
+2024,08,D - Electricity & Gas & Air Conditioning Supply,53,2024-08-01
+2024,08,E - Water Supply - Sewerage Waste Management & Rem,10,2024-08-01
+2024,08,E - Water Supply Waste Management & Remedial Activ,0,2024-08-01
+2024,08,F - Construction,138,2024-08-01
+2024,08,G - Wholesale & Retail Trade,46,2024-08-01
+2024,08,H - Transport & Storage,174,2024-08-01
+2024,08,I - Accommodation & Food Services activities,385,2024-08-01
+2024,08,J - Information & Communication Activities,594,2024-08-01
+2024,08,K - Financial & insurance Activities,237,2024-08-01
+2024,08,L - Real Estate Activities,1,2024-08-01
+2024,08,"M - All other Professional, Scientific & Technical",65,2024-08-01
+2024,08,"M - Professional, Scientific&Technical Activities",21,2024-08-01
+2024,08,N - Administrative & Support Service Activities,10,2024-08-01
+2024,08,O - Public Administration & Defence,2,2024-08-01
+2024,08,P - Education,43,2024-08-01
+2024,08,Q - Health & Social Work Activities,843,2024-08-01
+2024,08,"R - Arts , Entertainment and Recreation",33,2024-08-01
+2024,08,S - Other Service activities,204,2024-08-01
+2024,08,T - Domestic- Activities of Households as Employer,0,2024-08-01
+2024,09,"A - Agriculture, Forestry & Fishing",412,2024-09-01
+2024,09,B - Mining & Quarrying,3,2024-09-01
+2024,09,C - All Other Manufacturing,83,2024-09-01
+2024,09,C - Manufacture of Chemicals & Pharmaceuticals,44,2024-09-01
+2024,09,"C - Manufacture of Computers, Electronics & Optica",38,2024-09-01
+2024,09,"C - Manufacture of Food, Drink & Tobacco",24,2024-09-01
+2024,09,C - Manufacture of Medical Devices,11,2024-09-01
+2024,09,D - Electricity & Gas & Air Conditioning Supply,41,2024-09-01
+2024,09,E - Water Supply - Sewerage Waste Management & Rem,8,2024-09-01
+2024,09,E - Water Supply Waste Management & Remedial Activ,0,2024-09-01
+2024,09,F - Construction,128,2024-09-01
+2024,09,G - Wholesale & Retail Trade,29,2024-09-01
+2024,09,H - Transport & Storage,77,2024-09-01
+2024,09,I - Accommodation & Food Services activities,254,2024-09-01
+2024,09,J - Information & Communication Activities,538,2024-09-01
+2024,09,K - Financial & insurance Activities,227,2024-09-01
+2024,09,L - Real Estate Activities,0,2024-09-01
+2024,09,"M - All other Professional, Scientific & Technical",43,2024-09-01
+2024,09,"M - Professional, Scientific&Technical Activities",35,2024-09-01
+2024,09,N - Administrative & Support Service Activities,4,2024-09-01
+2024,09,O - Public Administration & Defence,2,2024-09-01
+2024,09,P - Education,32,2024-09-01
+2024,09,Q - Health & Social Work Activities,777,2024-09-01
+2024,09,"R - Arts , Entertainment and Recreation",60,2024-09-01
+2024,09,S - Other Service activities,119,2024-09-01
+2024,09,T - Domestic- Activities of Households as Employer,0,2024-09-01
+2024,10,"A - Agriculture, Forestry & Fishing",346,2024-10-01
+2024,10,B - Mining & Quarrying,1,2024-10-01
+2024,10,C - All Other Manufacturing,66,2024-10-01
+2024,10,C - Manufacture of Chemicals & Pharmaceuticals,65,2024-10-01
+2024,10,"C - Manufacture of Computers, Electronics & Optica",47,2024-10-01
+2024,10,"C - Manufacture of Food, Drink & Tobacco",21,2024-10-01
+2024,10,C - Manufacture of Medical Devices,13,2024-10-01
+2024,10,D - Electricity & Gas & Air Conditioning Supply,47,2024-10-01
+2024,10,E - Water Supply - Sewerage Waste Management & Rem,4,2024-10-01
+2024,10,E - Water Supply Waste Management & Remedial Activ,0,2024-10-01
+2024,10,F - Construction,123,2024-10-01
+2024,10,G - Wholesale & Retail Trade,36,2024-10-01
+2024,10,H - Transport & Storage,129,2024-10-01
+2024,10,I - Accommodation & Food Services activities,292,2024-10-01
+2024,10,J - Information & Communication Activities,472,2024-10-01
+2024,10,K - Financial & insurance Activities,192,2024-10-01
+2024,10,L - Real Estate Activities,1,2024-10-01
+2024,10,"M - All other Professional, Scientific & Technical",51,2024-10-01
+2024,10,"M - Professional, Scientific&Technical Activities",22,2024-10-01
+2024,10,N - Administrative & Support Service Activities,9,2024-10-01
+2024,10,O - Public Administration & Defence,4,2024-10-01
+2024,10,P - Education,35,2024-10-01
+2024,10,Q - Health & Social Work Activities,751,2024-10-01
+2024,10,"R - Arts , Entertainment and Recreation",39,2024-10-01
+2024,10,S - Other Service activities,180,2024-10-01
+2024,10,T - Domestic- Activities of Households as Employer,0,2024-10-01
+2024,11,"A - Agriculture, Forestry & Fishing",141,2024-11-01
+2024,11,B - Mining & Quarrying,6,2024-11-01
+2024,11,C - All Other Manufacturing,71,2024-11-01
+2024,11,C - Manufacture of Chemicals & Pharmaceuticals,81,2024-11-01
+2024,11,"C - Manufacture of Computers, Electronics & Optica",59,2024-11-01
+2024,11,"C - Manufacture of Food, Drink & Tobacco",31,2024-11-01
+2024,11,C - Manufacture of Medical Devices,31,2024-11-01
+2024,11,D - Electricity & Gas & Air Conditioning Supply,30,2024-11-01
+2024,11,E - Water Supply - Sewerage Waste Management & Rem,3,2024-11-01
+2024,11,E - Water Supply Waste Management & Remedial Activ,0,2024-11-01
+2024,11,F - Construction,140,2024-11-01
+2024,11,G - Wholesale & Retail Trade,37,2024-11-01
+2024,11,H - Transport & Storage,137,2024-11-01
+2024,11,I - Accommodation & Food Services activities,297,2024-11-01
+2024,11,J - Information & Communication Activities,572,2024-11-01
+2024,11,K - Financial & insurance Activities,211,2024-11-01
+2024,11,L - Real Estate Activities,4,2024-11-01
+2024,11,"M - All other Professional, Scientific & Technical",73,2024-11-01
+2024,11,"M - Professional, Scientific&Technical Activities",33,2024-11-01
+2024,11,N - Administrative & Support Service Activities,6,2024-11-01
+2024,11,O - Public Administration & Defence,4,2024-11-01
+2024,11,P - Education,37,2024-11-01
+2024,11,Q - Health & Social Work Activities,1042,2024-11-01
+2024,11,"R - Arts , Entertainment and Recreation",62,2024-11-01
+2024,11,S - Other Service activities,178,2024-11-01
+2024,11,T - Domestic- Activities of Households as Employer,0,2024-11-01
+2024,12,"A - Agriculture, Forestry & Fishing",193,2024-12-01
+2024,12,B - Mining & Quarrying,3,2024-12-01
+2024,12,C - All Other Manufacturing,92,2024-12-01
+2024,12,C - Manufacture of Chemicals & Pharmaceuticals,90,2024-12-01
+2024,12,"C - Manufacture of Computers, Electronics & Optica",45,2024-12-01
+2024,12,"C - Manufacture of Food, Drink & Tobacco",13,2024-12-01
+2024,12,C - Manufacture of Medical Devices,16,2024-12-01
+2024,12,D - Electricity & Gas & Air Conditioning Supply,26,2024-12-01
+2024,12,E - Water Supply - Sewerage Waste Management & Rem,7,2024-12-01
+2024,12,E - Water Supply Waste Management & Remedial Activ,0,2024-12-01
+2024,12,F - Construction,158,2024-12-01
+2024,12,G - Wholesale & Retail Trade,38,2024-12-01
+2024,12,H - Transport & Storage,88,2024-12-01
+2024,12,I - Accommodation & Food Services activities,277,2024-12-01
+2024,12,J - Information & Communication Activities,577,2024-12-01
+2024,12,K - Financial & insurance Activities,171,2024-12-01
+2024,12,L - Real Estate Activities,0,2024-12-01
+2024,12,"M - All other Professional, Scientific & Technical",76,2024-12-01
+2024,12,"M - Professional, Scientific&Technical Activities",53,2024-12-01
+2024,12,N - Administrative & Support Service Activities,7,2024-12-01
+2024,12,O - Public Administration & Defence,0,2024-12-01
+2024,12,P - Education,35,2024-12-01
+2024,12,Q - Health & Social Work Activities,808,2024-12-01
+2024,12,"R - Arts , Entertainment and Recreation",39,2024-12-01
+2024,12,S - Other Service activities,178,2024-12-01
+2024,12,T - Domestic- Activities of Households as Employer,0,2024-12-01
